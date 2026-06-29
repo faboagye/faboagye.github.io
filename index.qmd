@@ -1,0 +1,260 @@
+---
+title: ""
+description-meta: "Website"
+image: "files/images/Fprofile.png"
+page-navigation: false
+toc: false
+page-layout: full
+---
+
+<style>
+.home-container {
+  max-width: 1150px;
+  margin: 60px auto;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 70px;
+  align-items: start;
+}
+
+.profile-img {
+  width: 210px;
+  height: 210px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 6px;
+}
+
+.sidebar-name {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-top: 20px;
+  line-height: 1.15;
+}
+
+.sidebar-title {
+  margin-top: 15px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.sidebar-links {
+  margin-top: 25px;
+  line-height: 2.2;
+  font-size: 1rem;
+}
+
+.sidebar-links i,
+.sidebar-links svg {
+  font-size: 1.35rem;
+  width: 28px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+/* Icon colors */
+
+.email-icon i,
+.email-icon svg {
+  color: #EA4335;
+}
+
+.scholar-icon i,
+.scholar-icon svg {
+  color: #4285F4;
+}
+
+.researchgate-icon i,
+.researchgate-icon svg {
+  color: #00CCBB;
+}
+
+.location-icon i,
+.location-icon svg {
+  color: #E74C3C;
+}
+
+.linkedin-icon i,
+.linkedin-icon svg {
+  color: #0A66C2;
+}
+
+.github-icon i,
+.github-icon svg {
+  color: #181717;
+}
+
+.main-about {
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+.main-about h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 8px;
+}
+
+/* ===============================
+   Phone layout fix
+   =============================== */
+
+@media screen and (max-width: 768px) {
+
+  .home-container {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 25px 0 !important;
+    padding: 0 24px !important;
+    gap: 0 !important;
+    box-sizing: border-box !important;
+  }
+
+  .sidebar {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-bottom: 35px !important;
+    box-sizing: border-box !important;
+    position: relative !important;
+  }
+
+  .profile-img {
+    width: 165px !important;
+    height: 165px !important;
+    display: block !important;
+    margin-bottom: 18px !important;
+  }
+
+  .sidebar-name,
+  .sidebar-title,
+  .sidebar-links {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    position: static !important;
+    clear: both !important;
+  }
+
+  .sidebar-name {
+    font-size: 1.3rem !important;
+    margin-top: 10px !important;
+    line-height: 1.25 !important;
+  }
+
+  .sidebar-title {
+    font-size: 1rem !important;
+    margin-top: 12px !important;
+    line-height: 1.45 !important;
+  }
+
+  .sidebar-links {
+    margin-top: 22px !important;
+    margin-bottom: 35px !important;
+    line-height: 2.1 !important;
+  }
+
+  .main-about {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    position: relative !important;
+    clear: both !important;
+    margin-top: 20px !important;
+    padding-top: 10px !important;
+    font-size: 1rem !important;
+    line-height: 1.65 !important;
+    box-sizing: border-box !important;
+  }
+
+  .main-about h2 {
+    font-size: 1.8rem !important;
+    margin-top: 0 !important;
+    margin-bottom: 18px !important;
+  }
+
+  .main-about img {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  .caption {
+    font-size: 0.85rem !important;
+    line-height: 1.45 !important;
+  }
+}
+</style>
+
+<div class="home-container">
+
+<div class="sidebar">
+
+<img src="files/images/Fprofile.png" class="profile-img">
+
+<div class="sidebar-name">
+Fuseini Aboagye
+</div>
+
+<div class="sidebar-title">
+Teaching Assistant<br>
+Department of Statistics and Actuarial Science<br>
+University of Ghana<br>
+<span class="location-icon">{{< fa location-dot >}}</span> Accra, Ghana<br><br>
+
+B.A. Economics & Statistics<br>
+First Class Honours
+</div>
+
+<div class="sidebar-links">
+
+<span class="email-icon">{{< fa envelope >}}</span> aboagyefuseini@gmail.com<br>
+
+<span class="scholar-icon">{{< ai google-scholar >}}</span> [Google Scholar](https://scholar.google.com/citations?user=2NIQbBwAAAAJ&hl=en&oi=ao)<br>
+
+<span class="researchgate-icon">{{< ai researchgate >}}</span> [ResearchGate](https://www.researchgate.net/profile/Fuseini-Aboagye?ev=hdr_xprf)<br>
+
+<span class="linkedin-icon">{{< fa brands linkedin >}}</span> [LinkedIn](https://linkedin.com/in/fuseini-aboagye-8379aa237)<br>
+
+<span class="github-icon">{{< fa brands github >}}</span> [GitHub](https://github.com/faboagye)
+
+</div>
+
+</div>
+
+<div class="main-about">
+
+## About Me
+
+Thank you for visiting my website!
+
+I am **Fuseini Aboagye**, a Teaching Assistant in the Department of Statistics and Actuarial Science at the [University of Ghana](https://www.ug.edu.gh/), where I earned my **B.A. double major in Economics and Statistics** with **First Class Honours (FGPA: 3.91)**. My academic interests lie in **Statistics, Machine Learning, Econometrics, Biostatistics, and Data Science**, with a passion for applying quantitative methods to solve real-world problems and support evidence-based decision-making.
+
+My undergraduate research focuses on understanding structural brain changes associated with Alzheimer's disease using longitudinal MRI data and modern statistical techniques. Beyond research, I enjoy teaching, mentoring students, and contributing to academic initiatives that promote learning and collaboration.
+
+Looking ahead, I aspire to pursue graduate studies in quantitative disciplines such as **Statistics, Econometrics, and Biostatistics**, while contributing to research that advances evidence-based decision-making across healthcare, economics, and public policy.
+
+<img src="files/images/TertiaryConference.jpeg"
+     alt="Fuseini Aboagye at the 2023 Tertiary Conference"
+     style="max-width:30%; margin-top:20px; border-radius:8px;">
+
+<div class="caption">
+Attending the 2023 Tertiary Conference organized by Compassion International Ghana, Mfantseman Cluster, themed <em>"Meeting the Challenges of the Next Decade."</em>
+</div>
+
+<br>
+
+*Thank you for visiting my website. I welcome opportunities for research collaboration, academic engagement, and professional networking.*
+
+</div>
+
+</div>

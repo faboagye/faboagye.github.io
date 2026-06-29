@@ -1,0 +1,147 @@
+---
+title: "My Mentors"
+subtitle: "Guiding My Academic, Professional, and Personal Journey"
+format:
+  html:
+    toc: false
+---
+
+<style>
+.mentor-card {
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+  border: 1px solid var(--bs-border-color);
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 25px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.mentor-name {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+  color: var(--bs-body-color);
+}
+
+.mentor-aff {
+  color: var(--bs-secondary-color);
+  font-size: 0.95rem;
+  margin-bottom: 10px;
+}
+
+.mentor-link {
+  font-size: 0.95rem;
+  margin-bottom: 12px;
+}
+</style>
+
+---
+
+### 1.
+
+<div class="mentor-card">
+
+<div class="mentor-name">Prof. Ofer Harel</div>
+
+<div class="mentor-aff">
+Professor & Dean of the College of Liberal Arts and Sciences<br>
+University of Connecticut
+</div>
+
+<div class="mentor-link">
+🔗 Website: <a href="https://ofer-harel.uconn.edu/" target="_blank">https://ofer-harel.uconn.edu/</a>
+</div>
+
+**Impact on my journey:**  
+Prof. Harel’s expertise in missing data, biostatistics, and collaborative research methodology has significantly shaped my statistical foundation and inspired my commitment to impactful, community-centered research.
+
+</div>
+
+---
+
+### 2.
+
+<div class="mentor-card">
+
+<div class="mentor-name">Prof. Briana Joy K. Stephenson</div>
+
+<div class="mentor-aff">
+Assistant Professor of Biostatistics<br>
+Harvard T.H. Chan School of Public Health
+</div>
+
+<div class="mentor-link">
+🔗 Profile: <a href="https://hsph.harvard.edu/profile/briana-joy-k-stephenson/" target="_blank">https://hsph.harvard.edu/profile/briana-joy-k-stephenson/</a>
+</div>
+
+**Impact on my journey:**  
+Prof. Stephenson’s pioneering work in nutrition epidemiology, latent variable models, and representation for underrepresented communities has deeply influenced my research direction and professional aspirations.
+
+</div>
+
+---
+
+### 3.
+
+<div class="mentor-card">
+
+<div class="mentor-name">Dr. Rebbecca Wilson</div>
+
+<div class="mentor-aff">
+Principal Statistician<br>
+The Janssen Pharmaceutical Companies of Johnson & Johnson
+</div>
+
+<div class="mentor-link">
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/rebbecca-wilson-doctor-of-public-health-63751b50/" target="_blank">View Profile</a>
+</div>
+
+**Impact on my journey:**  
+Dr. Wilson has provided invaluable academic mentorship, career guidance, and personal support, especially during critical milestones in my graduate journey. Her leadership and generosity have strengthened my commitment to excellence.
+
+</div>
+
+---
+
+### 4.
+
+<div class="mentor-card">
+
+<div class="mentor-name">Dr. Stephanie McIver</div>
+
+<div class="mentor-aff">
+Executive Director of Student Health & Counseling (SHAC)<br>
+University of New Mexico
+</div>
+
+<div class="mentor-link">
+🔗 Profile: <a href="https://shac.unm.edu/about/staff/stephanie-mciver.html" target="_blank">SHAC Staff Page</a>
+</div>
+
+**Impact on my journey:**  
+Dr. McIver’s compassion, encouragement, and genuine investment in student success have shaped my resilience and well-being. Her example continues to inspire my commitment to mentorship and community service. Involving me in her ongoing research projects made a significant difference in my journey.
+
+</div>
+
+---
+
+### 5.
+
+<div class="mentor-card">
+
+<div class="mentor-name">Dr. Enoch Sakyi-Yeboah</div>
+
+<div class="mentor-aff">
+Senior Lecturer, Department of Statistics & Actuarial Science<br>
+University of Ghana
+</div>
+
+<div class="mentor-link">
+🔗 Profile: <a href="https://www.ug.edu.gh/statistics/people/dr-enoch-sakyi-yeboah" target="_blank">UG Profile</a>
+</div>
+
+**Impact on my journey:**  
+Dr. Sakyi-Yeboah mentored me during my undergraduate studies at the University of Ghana. His encouragement and belief in my potential laid the foundation for my academic path and pursuit of graduate studies.
+
+</div>

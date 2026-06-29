@@ -1,0 +1,215 @@
+
+---
+title: "Awards & Honors"
+description-meta: "Awards, Scholarships and Academic Honors"
+toc: false
+page-navigation: false
+---
+
+<style>
+
+#quarto-margin-sidebar,
+#TOC,
+.sidebar,
+.toc,
+nav[role="doc-toc"]{
+    display:none !important;
+}
+
+main.content{
+    max-width:950px !important;
+}
+
+.intro{
+    font-size:18px;
+    line-height:1.8;
+    color:#000;
+    margin-bottom:40px;
+}
+
+.year{
+    font-size:30px;
+    font-weight:700;
+    color:#0B57D0;
+    margin-top:30px;
+    margin-bottom:20px;
+    border-bottom:2px solid #0B57D0;
+    width:85%;
+    padding-bottom:8px;
+}
+
+.award{
+    margin-bottom:35px;
+}
+
+.award-title{
+    font-size:23px;
+    font-weight:bold;
+    color:#8B0000;
+    margin-bottom:8px;
+}
+
+.award-number{
+    color:#000;
+    font-weight:bold;
+    margin-right:8px;
+}
+
+.award-org{
+    font-size:17px;
+    font-weight:600;
+    color:#444;
+    margin-bottom:10px;
+}
+
+.award-desc{
+    font-size:17px;
+    color:#000;
+    line-height:1.8;
+    text-align:justify;
+}
+
+</style>
+
+<div class="intro">
+
+<em>I am grateful to have received several awards, scholarships and recognitions throughout my academic journey. These honours reflect my commitment to academic excellence, leadership, teaching, and continuous personal development.</em>
+
+</div>
+
+<div class="year">
+2025
+</div>
+
+<div class="award">
+
+<div class="award-title">
+<span class="award-number">7.</span>Best Student Teaching Assistant Award
+</div>
+
+<div class="award-org">
+Department of Statistics and Actuarial Science, University of Ghana
+</div>
+
+<div class="award-desc">
+Awarded in recognition of outstanding performance, dedication, and excellence as a student teaching assistant in the Department of Statistics and Actuarial Science.
+</div>
+
+</div>
+
+<div class="award">
+
+<div class="award-title">
+<span class="award-number">6.</span>Sadhu T. L. Vaswani / Indian Association of Ghana Endowment Fund Award
+</div>
+
+<div class="award-org">
+Overall Best Graduating Student in Economics, University of Ghana
+</div>
+
+<div class="award-desc">
+Awarded as the top-ranking graduate in the Economics Department in recognition of sustained intellectual excellence and unrivaled coursework performance, despite navigating significant socio-economic and financial constraints.
+</div>
+
+</div>
+
+<div class="year">
+2024
+</div>
+
+<div class="award">
+
+<div class="award-title">
+<span class="award-number">5.</span>Overall Best Level 200 Student in Economics
+</div>
+
+<div class="award-org">
+Vice-Chancellor's Ceremony in Honour of Award Winners, University of Ghana
+</div>
+
+<div class="award-desc">
+Recognized as the Overall Best Level 200 Student in Economics for the 2022/2023 Academic Year in acknowledgement of exceptional academic performance.
+</div>
+
+</div>
+
+<div class="year">
+2023
+</div>
+
+<div class="award">
+
+<div class="award-title">
+<span class="award-number">4.</span>Overall Best Level 200 Student in Statistics and Actuarial Science
+</div>
+
+<div class="award-org">
+School of Physical and Mathematical Sciences, University of Ghana
+</div>
+
+<div class="award-desc">
+Awarded as the Overall Best Level 200 Student in the Department of Statistics and Actuarial Science for the 2022/2023 Academic Year.
+</div>
+
+</div>
+
+<div class="year">
+2022
+</div>
+
+<div class="award">
+
+<div class="award-title">
+<span class="award-number">3.</span>Fondazione Edu Scholarship
+</div>
+
+<div class="award-org">
+University of Ghana Financial Aid Office
+</div>
+
+<div class="award-desc">
+Recipient of the Fondazione Edu Scholarship on the basis of academic merit and demonstrated financial need to support my undergraduate education.
+</div>
+
+</div>
+
+<div class="year">
+2018–2020
+</div>
+
+<div class="award">
+
+<div class="award-title">
+<span class="award-number">2.</span>Excellence Club Award
+</div>
+
+<div class="award-org">
+Potsin T.I. Ahmadiyya Senior High School
+</div>
+
+<div class="award-desc">
+Recognized for outstanding academic performance by consistently obtaining a minimum of six Grade A's in eight subjects every academic semester.
+</div>
+
+</div>
+
+<div class="year">
+2016–2017
+</div>
+
+<div class="award">
+
+<div class="award-title">
+<span class="award-number">1.</span>Inter-School & Inter-Cluster Quiz Champion
+</div>
+
+<div class="award-org">
+Central Region, Ghana
+</div>
+
+<div class="award-desc">
+Won multiple inter-school and inter-cluster quiz competitions, demonstrating excellence in mathematics, science, teamwork and critical thinking.
+</div>
+
+</div>
+

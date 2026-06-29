@@ -1,0 +1,153 @@
+---
+title: "Contact"
+description-meta: "Contact information for Fuseini Aboagye"
+toc: false
+page-navigation: false
+---
+
+<style>
+
+#quarto-margin-sidebar,
+#TOC,
+.sidebar,
+.toc,
+nav[role="doc-toc"]{
+    display:none !important;
+}
+
+main.content{
+    max-width:850px !important;
+}
+
+.contact-intro{
+    font-size:18px;
+    line-height:1.8;
+    margin-bottom:35px;
+    color:#000;
+}
+
+.contact-item{
+    display:flex;
+    align-items:center;
+    margin-bottom:28px;
+    font-size:20px;
+}
+
+.contact-item svg,
+.contact-item i{
+    width:38px;
+    font-size:28px;
+    margin-right:18px;
+}
+
+.email{
+    color:#EA4335;
+}
+
+.phone{
+    color:#198754;
+}
+
+.location{
+    color:#F57C00;
+}
+
+.linkedin{
+    color:#0A66C2;
+}
+
+.scholar{
+    color:#4285F4;
+}
+
+.researchgate{
+    color:#00CCBB;
+}
+
+.github{
+    color:#181717;
+}
+
+.contact-item a{
+    text-decoration:none;
+}
+
+.contact-item a:hover{
+    text-decoration:underline;
+}
+
+</style>
+
+<div class="contact-intro">
+
+I welcome opportunities for research collaboration, graduate study discussions, academic networking, teaching, and professional engagements. Feel free to reach out through any of the channels below.
+
+</div>
+
+<div class="contact-item">
+
+<span class="email">{{< fa envelope >}}</span>
+
+<a href="mailto:aboagyefuseini@gmail.com">
+aboagyefuseini@gmail.com
+</a>
+
+</div>
+
+<div class="contact-item">
+
+<span class="phone">{{< fa phone >}}</span>
+
++233 20 984 0096
+
+</div>
+
+<div class="contact-item">
+
+<span class="location">{{< fa location-dot >}}</span>
+
+Department of Statistics and Actuarial Science<br>
+University of Ghana<br>
+Accra, Ghana
+
+</div>
+
+<div class="contact-item">
+
+<span class="linkedin">{{< fa brands linkedin >}}</span>
+
+<a href="https://linkedin.com/in/fuseini-aboagye-8379aa237" target="_blank">
+LinkedIn
+</a>
+
+</div>
+
+<div class="contact-item">
+
+<span class="scholar">{{< ai google-scholar >}}</span>
+
+<a href="https://scholar.google.com/citations?user=2NIQbBwAAAAJ&hl=en&oi=ao" target="_blank">
+Google Scholar
+</a>
+
+</div>
+
+<div class="contact-item">
+
+<span class="researchgate">{{< ai researchgate >}}</span>
+
+<a href="https://www.researchgate.net/profile/Fuseini-Aboagye?ev=hdr_xprf" target="_blank">
+ResearchGate
+</a>
+
+</div>
+
+<div class="contact-item">
+
+<span class="github">{{< fa brands github >}}</span>
+
+<a href="https://github.com/faboagye" target="_blank">
+GitHub
+</a>
+
+</div>

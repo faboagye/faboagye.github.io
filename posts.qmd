@@ -1,0 +1,174 @@
+
+---
+title: "Academic Engagement"
+description-meta: "Research presentations, workshops and professional development."
+toc: false
+page-navigation: false
+---
+
+<style>
+
+#quarto-margin-sidebar,
+#TOC,
+.sidebar,
+.toc,
+nav[role="doc-toc"]{
+    display:none !important;
+}
+
+main.content{
+    max-width:950px !important;
+}
+
+.intro{
+    font-size:18px;
+    line-height:1.8;
+    margin-bottom:45px;
+    text-align:justify;
+}
+
+.section{
+    color:#0B57D0 !important;
+    font-size:2.2rem !important;
+    font-weight:700 !important;
+    margin-top:55px !important;
+    margin-bottom:30px !important;
+    border-bottom:2px solid #0B57D0 !important;
+    padding-bottom:8px !important;
+}
+
+.item{
+    margin-bottom:42px;
+}
+
+.item-title{
+    font-size:24px;
+    font-weight:700;
+    color:#8B0000;
+    margin-bottom:8px;
+}
+
+.item-place{
+    font-size:17px;
+    font-weight:600;
+    color:#555;
+    margin-bottom:12px;
+}
+
+.item-desc{
+    font-size:17px;
+    line-height:1.8;
+    color:#000;
+    text-align:justify;
+}
+
+</style>
+
+<div class="intro">
+
+Beyond the classroom, I actively engage in research presentations, student training, workshops, and professional development activities. These experiences have strengthened my communication skills, broadened my academic perspective, and deepened my commitment to statistics and data-driven research.
+
+</div>
+
+<h2 class="section">Research Presentations</h2>
+
+<div class="item">
+
+<div class="item-title">
+Exploring How Multiple Indicator Cluster Surveys Are Designed and Implemented
+</div>
+
+<div class="item-place">
+Economics Department Seminar, University of Ghana • October 2024
+</div>
+
+<div class="item-desc">
+Presented findings from a semester-long research project examining the design and implementation of Multiple Indicator Cluster Surveys (MICS), with emphasis on survey methodology, sampling techniques, questionnaire design, and large-scale demographic data collection.
+</div>
+
+</div>
+
+<div class="item">
+
+<div class="item-title">
+The Questionnaires Used in the 2021 Population and Housing Census in Ghana
+</div>
+
+<div class="item-place">
+Department of Economics, University of Ghana • March 2023
+</div>
+
+<div class="item-desc">
+Presented a critical review of the questionnaires used during Ghana's 2021 Population and Housing Census, discussing questionnaire structure, data quality considerations, and their role in national statistical planning.
+</div>
+
+</div>
+
+<h2 class="section">Teaching Workshops</h2>
+
+<div class="item">
+
+<div class="item-title">
+Introduction to R Programming
+</div>
+
+<div class="item-place">
+Department of Statistics and Actuarial Science, University of Ghana • June 2024
+</div>
+
+<div class="item-desc">
+Facilitated an introductory workshop on the R programming language for undergraduate students, covering data manipulation, visualization, statistical analysis, and reproducible workflows.
+</div>
+
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Introduction to LaTeX
+</div>
+
+<div class="item-place">
+Department of Statistics and Actuarial Science, University of Ghana • October 2023
+</div>
+
+<div class="item-desc">
+Delivered an introductory session on LaTeX, introducing students to professional scientific document preparation, mathematical typesetting, report writing, and presentation formatting.
+</div>
+
+</div>
+
+<h2 class="section">Professional Development</h2>
+
+<div class="item">
+
+<div class="item-title">
+StatFest 2025
+</div>
+
+<div class="item-place">
+American Statistical Association • Virtual • September 2025
+</div>
+
+<div class="item-desc">
+Participated in graduate preparation workshops focused on research readiness, graduate admissions, professional networking, and career development. The programme also provided one-on-one mentoring sessions with experienced statisticians and opportunities to interact with students and professionals from academia, industry, and government.
+</div>
+
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Tertiary Conference 2023
+</div>
+
+<div class="item-place">
+Compassion International Ghana, Mfantseman Cluster
+</div>
+
+<div class="item-desc">
+Participated in leadership and personal development sessions centred on the theme <em>"Meeting the Challenges of the Next Decade."</em> The conference emphasized leadership, personal growth, career preparation, and responsible citizenship.
+</div>
+
+</div>
+

@@ -1,0 +1,152 @@
+---
+title: "Research"
+description-meta: "Research projects and scholarly collaborations."
+toc: false
+page-navigation: false
+---
+
+<style>
+
+#quarto-margin-sidebar,
+#TOC,
+.sidebar,
+.toc,
+nav[role="doc-toc"]{
+    display:none !important;
+}
+
+main.content{
+    max-width:950px !important;
+}
+
+.intro{
+    font-size:18px;
+    line-height:1.8;
+    color:#000;
+    text-align:justify;
+    margin-bottom:45px;
+}
+
+.section{
+    font-size:2.2rem;
+    font-weight:700;
+    color:#0B57D0;
+    border-bottom:2px solid #0B57D0;
+    padding-bottom:8px;
+    margin-top:40px;
+    margin-bottom:30px;
+}
+
+.project-title{
+    font-size:1.8rem;
+    color:#8B0000;
+    font-weight:700;
+    margin-bottom:12px;
+}
+
+.project-meta{
+    font-size:17px;
+    color:#555;
+    font-weight:600;
+    margin-bottom:20px;
+}
+
+.project-desc{
+    font-size:17px;
+    line-height:1.8;
+    text-align:justify;
+    margin-bottom:25px;
+}
+
+.button{
+    display:inline-block;
+    padding:10px 18px;
+    margin-right:12px;
+    margin-bottom:20px;
+    border-radius:6px;
+    text-decoration:none;
+    background:#0B57D0;
+    color:white !important;
+    font-weight:600;
+}
+
+.button:hover{
+    background:#0847AA;
+    color:white !important;
+}
+
+.paper{
+    margin-bottom:35px;
+    font-size:18px;
+    line-height:1.8;
+}
+
+.paper a{
+    text-decoration:none;
+}
+
+.paper a:hover{
+    text-decoration:underline;
+}
+
+</style>
+
+<div class="intro">
+
+My research focuses on the application of statistical methods and machine learning techniques to address real-world problems in healthcare, public health, and the social sciences. My work combines classical statistical inference with modern predictive modelling to generate evidence that supports informed decision-making.
+
+</div>
+
+<h2 class="section">Featured Research</h2>
+
+<div class="project-title">
+
+Statistical and Machine Learning Approaches to Exploring Brain Structural Changes in Alzheimer's Disease Progression: A Longitudinal Study
+
+</div>
+
+<div class="project-meta">
+
+<b>Lead Author:</b> Fuseini Aboagye <br>
+
+<b>Co-authors:</b> Dzobo Marrion Mawusi & Sackey Rodney <br>
+
+Department of Statistics and Actuarial Science, University of Ghana • November 2025
+
+</div>
+
+<div class="project-desc">
+
+This undergraduate research project investigates structural brain changes associated with Alzheimer's disease using longitudinal magnetic resonance imaging (MRI) data from the Open Access Series of Imaging Studies (OASIS). The study integrates classical statistical techniques with modern machine learning algorithms to identify patterns associated with dementia progression and improve predictive performance.
+
+The research employs repeated-measures MANOVA, Principal Component Analysis (PCA), Random Forest, Gradient Boosting, Support Vector Machine, Neural Networks, and Naïve Bayes models implemented in R. Findings from the study demonstrate the usefulness of combining statistical inference with machine learning for understanding neurodegenerative disease progression and supporting early diagnosis.
+
+</div>
+
+<a class="button" href="files/Alzheimers_Research.pdf" target="_blank">
+📄 Read Thesis
+</a>
+
+<a class="button" href="files/Alzheimers_Research.pdf" download>
+⬇ Download PDF
+</a>
+
+<h2 class="section">Collaborative Research</h2>
+
+<div class="paper">
+
+Baidoo, D., <strong>Aboagye, F.</strong>, Okeke, O. J., et al. (2025). <em>Comparing Malaria Trends in the Comoros Islands: ARIMA Modeling and Retrospective Analysis.</em>
+<a href="https://arxiv.org/abs/2508.16018" target="_blank">
+arXiv:2508.16018
+</a>
+
+</div>
+
+<div class="paper">
+
+Baidoo, D., Amevor, R., <strong>Aboagye, F.</strong>, Kubuafor, E., et al. (2025). <em>Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.</em>
+<a href="https://arxiv.org/abs/2508.15762" target="_blank">
+arXiv:2508.15762
+</a>
+
+</div>
