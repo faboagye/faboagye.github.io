@@ -33,9 +33,6 @@ website:
     left:
       - text: RESEARCH
         href: publications.qmd
-
-      - text: BLOG
-        href: blog.qmd
         
       - text: CONTACT
         href: contact.qmd
@@ -49,8 +46,8 @@ website:
       - text: AWARDS & HONORS
         href: Awards.qmd
 
-      - text: NEWS
-        href: mediatab.qmd
+      - text: LEADERSHIP
+        href: leadership.qmd
 
     right:
       - text: CV

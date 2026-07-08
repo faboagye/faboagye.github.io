@@ -206,7 +206,7 @@ Fuseini Aboagye
 </div>
 
 <div class="sidebar-title">
-Teaching Assistant<br>
+Research and Teaching Assistant<br>
 Department of Statistics and Actuarial Science<br>
 University of Ghana<br>
 <span class="location-icon">{{< fa location-dot >}}</span> Accra, Ghana<br><br>
@@ -237,11 +237,9 @@ First Class Honours
 
 Thank you for visiting my website!
 
-I am **Fuseini Aboagye**, a Teaching Assistant in the Department of Statistics and Actuarial Science at the [University of Ghana](https://www.ug.edu.gh/), where I earned my **B.A. double major in Economics and Statistics** with **First Class Honours (FGPA: 3.91)**. My academic interests lie in **Statistics, Machine Learning, Econometrics, Biostatistics, and Data Science**, with a passion for applying quantitative methods to solve real-world problems and support evidence-based decision-making.
+I am **Fuseini Aboagye**, a Research and Teaching Assistant in the Department of Statistics and Actuarial Science at the [University of Ghana](https://www.ug.edu.gh/), where I earned my **B.A. double major in Economics and Statistics** with **First Class Honours (FGPA: 3.91)**. My undergraduate training integrated statistics and economics, providing me with a rigorous foundation in **statistical theory, econometrics, machine learning, biostatistics**, and **applied economics**, equipping me with the quantitative and analytical skills needed to investigate complex problems across healthcare, economics, and public policy.
 
-My undergraduate research focuses on understanding structural brain changes associated with Alzheimer's disease using longitudinal MRI data and modern statistical techniques. Beyond research, I enjoy teaching, mentoring students, and contributing to academic initiatives that promote learning and collaboration.
-
-Looking ahead, I aspire to pursue graduate studies in quantitative disciplines such as **Statistics, Econometrics, and Biostatistics**, while contributing to research that advances evidence-based decision-making across healthcare, economics, and public policy.
+During my undergraduate studies, I developed research experience across both statistics and economics. In statistics, my research focuses on understanding structural brain changes associated with Alzheimer's disease using longitudinal MRI data and statistical learning techniques. In economics, I examined the design and implementation of Multiple Indicator Cluster Surveys (MICS) and the role of population census questionnaires in evidence-based policymaking and national statistical planning. These experiences strengthened my interest in applying quantitative methods to address challenges in health, development, and economic policy.
 
 <img src="files/images/TertiaryConference.jpeg"
      alt="Fuseini Aboagye at the 2023 Tertiary Conference"
@@ -253,7 +251,6 @@ Attending the 2023 Tertiary Conference organized by Compassion International Gha
 
 <br>
 
-*Thank you for visiting my website. I welcome opportunities for research collaboration, academic engagement, and professional networking.*
 
 </div>
 

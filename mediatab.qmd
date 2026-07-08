@@ -1,6 +1,0 @@
----
-title: "News"
-description-meta: "News"
-toc: false
-page-navigation: false
----

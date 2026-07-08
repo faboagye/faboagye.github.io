@@ -1,6 +1,0 @@
----
-title: "Blog"
-description-meta: "Blog"
-toc: false
-page-navigation: false
----

@@ -1,0 +1,206 @@
+---
+title: "Leadership"
+description-meta: "Leadership, service and community engagement."
+toc: false
+page-navigation: false
+---
+
+<style>
+
+#quarto-margin-sidebar,
+#TOC,
+.sidebar,
+.toc,
+nav[role="doc-toc"]{
+    display:none !important;
+}
+
+main.content{
+    max-width:950px !important;
+}
+
+.intro{
+    font-size:18px;
+    line-height:1.8;
+    margin-bottom:45px;
+    text-align:justify;
+}
+
+.lead-section{
+    font-size:30px;
+    font-weight:700;
+    color:#0B57D0;
+    margin-top:50px;
+    margin-bottom:25px;
+    border-bottom:2px solid #0B57D0;
+    padding-bottom:8px;
+}
+
+.item{
+    margin-bottom:38px;
+}
+
+.item-title{
+    font-size:23px;
+    font-weight:700;
+    color:#8B0000;
+    margin-bottom:8px;
+}
+
+.item-place{
+    font-size:17px;
+    font-weight:600;
+    color:#555;
+    margin-bottom:10px;
+}
+
+.item-desc{
+    font-size:17px;
+    line-height:1.8;
+    text-align:justify;
+    color:#000;
+}
+
+</style>
+
+<div class="intro">
+
+Leadership and service have been central to my academic and personal development. Throughout my educational journey, I have actively contributed to student governance, academic mentorship, community engagement, and volunteer initiatives that promote learning, collaboration, and social impact.
+
+</div>
+
+<div class="lead-section">
+Leadership Roles
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Academic & Scholarship Committee Chairperson
+</div>
+
+<div class="item-place">
+Jubilee Hall (International Hostel), University of Ghana • 2024 – Present
+</div>
+
+<div class="item-desc">
+Lead academic initiatives within the hall, coordinate student learning activities, promote scholarship opportunities, and work with stakeholders to enhance the academic experience of resident students.
+</div>
+
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Deputy Chairperson, Academic Committee
+</div>
+
+<div class="item-place">
+University of Ghana Actuarial and Statistics Society • 2024
+</div>
+
+<div class="item-desc">
+Supported the planning and coordination of academic programmes, tutorials, and departmental activities aimed at improving student learning and engagement.
+</div>
+
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Chief Clerk
+</div>
+
+<div class="item-place">
+Jubilee Hall Parliament, University of Ghana • 2023
+</div>
+
+<div class="item-desc">
+Managed parliamentary records, coordinated legislative proceedings, and ensured effective documentation of parliamentary activities.
+</div>
+
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Marshall
+</div>
+
+<div class="item-place">
+Jubilee Hall Parliament, University of Ghana • 2023
+</div>
+
+<div class="item-desc">
+Maintained order during parliamentary proceedings and assisted in the smooth organization of parliamentary sessions and events.
+</div>
+
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Treasurer
+</div>
+
+<div class="item-place">
+General Arts Students' Association, Potsin T.I. Ahmadiyya Senior High School • 2019–2020
+</div>
+
+<div class="item-desc">
+Managed financial records and supported the planning and execution of student association activities.
+</div>
+
+</div>
+
+<div class="lead-section">
+Mentorship & Community Service
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Peer Mentor
+</div>
+
+<div class="item-place">
+Compassion International Ghana • 2021
+</div>
+
+<div class="item-desc">
+Provided academic, personal, and career guidance to younger students while encouraging leadership, confidence, and educational development.
+</div>
+
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Staff Financial Secretary
+</div>
+
+<div class="item-place">
+Home for Hope Preparatory School, Gomoa West Education District • 2021
+</div>
+
+<div class="item-desc">
+Supported financial administration and record keeping while contributing to the effective management of school operations.
+</div>
+
+</div>
+
+<div class="item">
+
+<div class="item-title">
+Pandemic Educator
+</div>
+
+<div class="item-place">
+Economics Department, Potsin T.I. Ahmadiyya Senior High School • 2020
+</div>
+
+<div class="item-desc">
+Participated in public education initiatives during the COVID-19 pandemic, promoting health awareness and responsible preventive practices within the school community.
+</div>
+
+</div>
