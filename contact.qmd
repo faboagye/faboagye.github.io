@@ -26,6 +26,10 @@ main.content{
     color:#000;
 }
 
+body.quarto-dark .contact-intro{
+    color:#E6E6E6 !important;
+}
+
 .contact-item{
     display:flex;
     align-items:center;

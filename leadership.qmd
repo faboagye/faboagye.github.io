@@ -54,11 +54,19 @@ main.content{
     margin-bottom:10px;
 }
 
+body.quarto-dark .item-place{
+    color:#CFCFCF !important;
+}
+
 .item-desc{
     font-size:17px;
     line-height:1.8;
     text-align:justify;
     color:#000;
+}
+
+body.quarto-dark .item-desc{
+    color:#E6E6E6 !important;
 }
 
 </style>

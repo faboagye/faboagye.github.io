@@ -27,6 +27,10 @@ main.content{
     margin-bottom:40px;
 }
 
+body.quarto-dark .intro{
+    color:#E6E6E6 !important;
+}
+
 .year{
     font-size:30px;
     font-weight:700;
@@ -55,6 +59,10 @@ main.content{
     margin-right:8px;
 }
 
+body.quarto-dark .award-number{
+    color:#FFFFFF !important;
+}
+
 .award-org{
     font-size:17px;
     font-weight:600;
@@ -62,11 +70,19 @@ main.content{
     margin-bottom:10px;
 }
 
+body.quarto-dark .award-org{
+    color:#CFCFCF !important;
+}
+
 .award-desc{
     font-size:17px;
     color:#000;
     line-height:1.8;
     text-align:justify;
+}
+
+body.quarto-dark .award-desc{
+    color:#E6E6E6 !important;
 }
 
 </style>
