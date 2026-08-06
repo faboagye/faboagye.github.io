@@ -109,9 +109,11 @@ body.quarto-dark .project-desc{
 
 <div class="intro">
 
-My research focuses on the application of statistical methods and machine learning techniques to address real-world problems in healthcare, public health, and the social sciences. My work combines classical statistical inference with modern predictive modelling to generate evidence that supports informed decision-making.
+<em>My research focuses on applying statistical methods to real-world problems in public health, official statistics, and the social sciences. Through both independent and collaborative research, I am particularly interested in statistical modelling, longitudinal data analysis, and survey methodology to generate evidence for informed decision-making.
+</em>
 
 </div>
+
 
 <h2 class="section">Featured Research</h2>
 
@@ -146,6 +148,24 @@ The research employs repeated-measures MANOVA, Principal Component Analysis (PCA
 <a class="button" href="files/Alzheimers_Research.pdf" download>
 ⬇ Download PDF
 </a>
+
+<div class="project-title">
+
+Exploring the Design and Implementation of Multiple Indicator Cluster Surveys (MICS)
+
+</div>
+
+<div class="project-meta">
+
+Department of Economics, University of Ghana • October 2024
+
+</div>
+
+<div class="project-desc">
+
+This research examined the design and implementation of the Multiple Indicator Cluster Surveys (MICS), with emphasis on survey design, sampling methodology, questionnaire development, field implementation, and data quality assurance. The study explored how nationally representative household surveys generate reliable statistics on health, education, child protection, nutrition, and other Sustainable Development Goal (SDG) indicators, highlighting the role of official statistics in supporting evidence-based policymaking and national development planning.
+
+</div>
 
 <h2 class="section">Collaborative Research</h2>
 

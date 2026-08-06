@@ -84,7 +84,8 @@ body.quarto-dark .contact-intro{
 
 <div class="contact-intro">
 
-I welcome opportunities for research collaboration, graduate study discussions, academic networking, teaching, and professional engagements. Feel free to reach out through any of the channels below.
+<em>I welcome opportunities for research collaboration, graduate study discussions, academic networking, teaching, and professional engagements. Feel free to reach out through any of the channels below.
+</em>
 
 </div>
 

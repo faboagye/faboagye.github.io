@@ -74,27 +74,12 @@ body.quarto-dark .item-desc{
 
 <div class="intro">
 
-Beyond the classroom, I actively engage in research presentations, student training, workshops, and professional development activities. These experiences have strengthened my communication skills, broadened my academic perspective, and deepened my commitment to statistics and data-driven research.
+<em>Beyond the classroom, I actively engage in research presentations, student training, workshops, and professional development activities. These experiences have strengthened my communication skills, broadened my academic perspective, and deepened my commitment to statistics and data-driven research.
+</em>
 
 </div>
 
 <h2 class="section">Research Presentations</h2>
-
-<div class="item">
-
-<div class="item-title">
-Exploring How Multiple Indicator Cluster Surveys Are Designed and Implemented
-</div>
-
-<div class="item-place">
-Economics Department Seminar, University of Ghana • October 2024
-</div>
-
-<div class="item-desc">
-Presented findings from a semester-long research project examining the design and implementation of Multiple Indicator Cluster Surveys (MICS), with emphasis on survey methodology, sampling techniques, questionnaire design, and large-scale demographic data collection.
-</div>
-
-</div>
 
 <div class="item">
 

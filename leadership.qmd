@@ -73,7 +73,8 @@ body.quarto-dark .item-desc{
 
 <div class="intro">
 
-Leadership and service have been central to my academic and personal development. Throughout my educational journey, I have actively contributed to student governance, academic mentorship, community engagement, and volunteer initiatives that promote learning, collaboration, and social impact.
+<em>Leadership and service have been central to my academic and personal development. Throughout my educational journey, I have actively contributed to student governance, academic mentorship, community engagement, and volunteer initiatives that promote learning, collaboration, and social impact.
+</em>
 
 </div>
 

@@ -1,12 +1,12 @@
 ---
 title: "Teaching"
-subtitle: "I have served as a Teaching Assistant for the following undergraduate courses at the University of Ghana."
 title-block-banner: false
 toc: false
 page-navigation: false
 ---
 
-I currently serve as a **Teaching Assistant** in the **Department of Statistics and Actuarial Science, University of Ghana**. My responsibilities include facilitating tutorial sessions, assisting with practical classes, grading assignments and examinations, and providing academic support to undergraduate students. The courses I have assisted are listed below.
+<em>I currently serve as a **Teaching Assistant** in the **Department of Statistics and Actuarial Science, University of Ghana**. My responsibilities include facilitating tutorial sessions, assisting with practical classes, grading assignments and examinations, and providing academic support to undergraduate students. The courses I have assisted are listed below.
+</em>
 
 ## First Semester, 2025/2026 Academic Year
 
