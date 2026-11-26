@@ -311,10 +311,10 @@ figure.photo figcaption { color: var(--muted); font-size: 0.9rem; line-height: 1
 
 /* University of Ghana logo in the far top-left corner of the header. */
 .corner-logo { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); line-height: 0; }
-.corner-logo img { height: 50px; width: auto; display: block; }
+.corner-logo img { height: 60px; width: auto; display: block; }
 :root[data-theme="dark"] .corner-logo { background: #fff; padding: 4px 6px; border-radius: 6px; }
 /* Mid widths: push the name clear of the logo. */
-@media (min-width: 821px) and (max-width: 1221px) { .bar { padding-left: max(22px, calc(131px - (100vw - 960px) / 2)); } }
+@media (min-width: 821px) and (max-width: 1263px) { .bar { padding-left: max(22px, calc(152px - (100vw - 960px) / 2)); } }
 /* Phones: small logo pinned to the top-left corner. */
-@media (max-width: 820px) { .corner-logo { top: 10px; left: 10px; transform: none; } .corner-logo img { height: 30px; } :root[data-theme="dark"] .corner-logo { padding: 2px 4px; } }
+@media (max-width: 820px) { .corner-logo { top: 10px; left: 10px; transform: none; } .corner-logo img { height: 36px; } :root[data-theme="dark"] .corner-logo { padding: 2px 4px; } }
 @media print { .corner-logo { display: none; } }
