@@ -13,7 +13,6 @@ title-block-style: none
 <section class="wrap page-body">
 <ul class="contact-list">
 <li><span class="label">Email</span><span><a class="mail" data-u="aboagyefuseini" data-d="gmail.com" href="#">aboagyefuseini [at] gmail.com</a></span></li>
-<li><span class="label">Phone</span><span>+233 20 984 0096</span></li>
 <li><span class="label">Address</span><span>Department of Statistics and Actuarial Science<br>University of Ghana<br>Accra, Ghana</span></li>
 <li><span class="label">Profiles</span><span><a href="https://scholar.google.com/citations?user=2NIQbBwAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Fuseini-Aboagye" target="_blank" rel="noopener">ResearchGate</a> · <a href="https://linkedin.com/in/fuseini-aboagye-8379aa237" target="_blank" rel="noopener">LinkedIn</a> · <a href="https://github.com/faboagye" target="_blank" rel="noopener">GitHub</a></span></li>
 </ul>
