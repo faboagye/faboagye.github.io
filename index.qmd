@@ -1,257 +1,81 @@
 ---
-title: ""
-description-meta: "Website"
+pagetitle: "Fuseini Aboagye | Statistics and Economics, University of Ghana"
+description-meta: "Fuseini Aboagye is a Teaching Assistant in the Department of Statistics and Actuarial Science at the University of Ghana, with a First Class B.A. in Statistics and Economics."
 image: "files/images/Fprofile.png"
-page-navigation: false
-toc: false
-page-layout: full
+canonical-url: "https://faboagye.github.io/"
+title-block-style: none
 ---
 
-<style>
-.home-container {
-  max-width: 1150px;
-  margin: 60px auto;
-  display: grid;
-  grid-template-columns: 260px 1fr;
-  gap: 70px;
-  align-items: start;
-}
+```{=html}
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "ProfilePage", "url": "https://faboagye.github.io/", "mainEntity": {"@type": "Person", "name": "Fuseini Aboagye", "url": "https://faboagye.github.io/", "image": "https://faboagye.github.io/files/images/Fprofile.png", "jobTitle": "Teaching Assistant", "affiliation": {"@type": "CollegeOrUniversity", "name": "University of Ghana", "url": "https://www.ug.edu.gh/"}, "alumniOf": [{"@type": "CollegeOrUniversity", "name": "University of Ghana"}], "knowsAbout": ["Statistics", "Biostatistics", "Economics", "Longitudinal data analysis", "Survey methodology"], "sameAs": ["https://linkedin.com/in/fuseini-aboagye-8379aa237", "https://scholar.google.com/citations?user=2NIQbBwAAAAJ", "https://www.researchgate.net/profile/Fuseini-Aboagye", "https://github.com/faboagye"]}}</script>
+<section class="wrap hero">
+  <div class="hero-text">
+    <p class="overline">Statistics and Actuarial Science · University of Ghana</p>
+    <h1>Fuseini Aboagye</h1>
+    <p class="lead">I am a Teaching Assistant in the <a href="https://www.ug.edu.gh/statistics/" target="_blank" rel="noopener">Department of Statistics and Actuarial Science</a> at the <a href="https://www.ug.edu.gh/" target="_blank" rel="noopener">University of Ghana</a>, where I earned a B.A. in Statistics and Economics with First Class Honours.</p>
+    <p class="cta"><a class="btn" href="publications.html">Research</a> <a class="btn ghost" href="cv.html">CV</a></p>
+    <p class="links"><a href="https://scholar.google.com/citations?user=2NIQbBwAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a> <a href="https://www.researchgate.net/profile/Fuseini-Aboagye" target="_blank" rel="noopener">ResearchGate</a> <a href="https://linkedin.com/in/fuseini-aboagye-8379aa237" target="_blank" rel="noopener">LinkedIn</a> <a href="https://github.com/faboagye" target="_blank" rel="noopener">GitHub</a> <a class="mail" data-u="aboagyefuseini" data-d="gmail.com" href="#">Email</a></p>
+  </div>
+  <figure class="portrait"><span class="portrait-crop"><img src="files/images/Fprofile.png" alt="Portrait of Fuseini Aboagye"></span></figure>
+</section>
 
-.profile-img {
-  width: 210px;
-  height: 210px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 1px solid #ddd;
-  padding: 6px;
-}
+<section class="wrap section" id="about">
+  <div class="cols">
+    <h2>About Me</h2>
+    <div class="prose">
+      <p>Thank you for visiting my website!</p>
+      <p>I completed a double major in Economics and Statistics at the <a href="https://www.ug.edu.gh/" target="_blank" rel="noopener">University of Ghana</a> with First Class Honours (GPA 3.91/4.00), graduating in the top 1% of my class as Overall Best Student in both Statistics and Economics. My interests lie in statistical methodology and quantitative research, with applications in health, economics, and public policy.</p>
+      <p>In statistics, my research examines structural brain changes associated with Alzheimer&rsquo;s disease using longitudinal MRI data and statistical learning. In economics, I studied the design and implementation of Multiple Indicator Cluster Surveys (MICS) and the role of census questionnaires in evidence-based policymaking. These experiences have deepened my interest in applying statistical methods to biomedical and public health research.</p>
+    </div>
+  </div>
+</section>
 
-.sidebar-name {
-  font-size: 1.35rem;
-  font-weight: 700;
-  margin-top: 20px;
-  line-height: 1.15;
-}
+<section class="wrap section" id="news">
+  <div class="section-head"><h2>Recent News</h2><a class="more" href="Awards.html">All awards and honors</a></div>
+  <ul class="news">
+    <li><span class="news-date">November 2025</span><span>Completed my undergraduate thesis, <a href="files/Alzheimers_Research.pdf" target="_blank" rel="noopener">Statistical and Machine Learning Approaches to Exploring Brain Structural Changes in Alzheimer&rsquo;s Disease Progression</a>.</span></li>
+    <li><span class="news-date">October 2025</span><span>Began serving as a Teaching Assistant in the Department of Statistics and Actuarial Science, University of Ghana.</span></li>
+    <li><span class="news-date">September 2025</span><span>Selected as a mentee for <strong>StatFest 2025</strong>, American Statistical Association.</span></li>
+    <li><span class="news-date">2025</span><span>Received the <strong>Best Teaching Assistant Award</strong>, Department of Statistics and Actuarial Science, University of Ghana.</span></li>
+    <li><span class="news-date">2025</span><span>Received the <strong>Sadhu T. L. Vaswani / Indian Association of Ghana Endowment Fund Award</strong> as Overall Best Graduating Student in Economics.</span></li>
+    <li><span class="news-date">2025</span><span>Graduated with First Class Honours in Statistics and Economics, University of Ghana.</span></li>
+    <li class="news-extra"><span class="news-date">2025</span><span>Co-authored two preprints: <a href="https://arxiv.org/abs/2508.16018" target="_blank" rel="noopener">malaria trends in the Comoros Islands</a> and <a href="https://arxiv.org/abs/2508.15762" target="_blank" rel="noopener">Bayesian surveillance of cervical dystonia treatments</a>.</span></li>
+    <li class="news-extra"><span class="news-date">2024</span><span>Named <strong>Overall Best Level 200 Student</strong> in both Economics and Statistics for the 2022/2023 academic year.</span></li>
+    <li class="news-extra"><span class="news-date">June 2024</span><span>Led an <strong>Introduction to R</strong> workshop for undergraduates, Department of Statistics and Actuarial Science.</span></li>
+    <li class="news-extra"><span class="news-date">October 2023</span><span>Led an <strong>Introduction to LaTeX</strong> session for undergraduates, Department of Statistics and Actuarial Science.</span></li>
+    <li class="news-extra"><span class="news-date">2022</span><span>Received the <strong>Fondazione Edu Scholarship</strong>, University of Ghana Financial Aid Office.</span></li>
+  </ul>
+</section>
 
-.sidebar-title {
-  margin-top: 15px;
-  font-size: 1rem;
-  line-height: 1.5;
-}
+<section class="wrap section" id="areas">
+  <div class="section-head"><h2>Research interests</h2><a class="more" href="publications.html">All research</a></div>
+  <div class="area-rows">
+    <a class="area-row" href="publications.html"><span class="num">01</span><span class="area-title">Longitudinal Data and Neuroimaging</span><span class="area-text">Repeated-measures models and statistical learning for brain structure changes in Alzheimer&rsquo;s disease.</span></a>
+    <a class="area-row" href="publications.html"><span class="num">02</span><span class="area-title">Bayesian Methods in Health</span><span class="area-text">Bayesian hierarchical models for surveillance of treatment outcomes across patient groups.</span></a>
+    <a class="area-row" href="publications.html"><span class="num">03</span><span class="area-title">Forecasting Disease Trends</span><span class="area-text">Time series models for malaria surveillance and retrospective trend analysis.</span></a>
+    <a class="area-row" href="publications.html"><span class="num">04</span><span class="area-title">Survey Methodology and Official Statistics</span><span class="area-text">Design and data quality of household surveys and censuses for evidence-based policy.</span></a>
+  </div>
+</section>
 
-.sidebar-links {
-  margin-top: 25px;
-  line-height: 2.2;
-  font-size: 1rem;
-}
+<section class="wrap section" id="journey">
+  <div class="cols">
+    <h2>My Academic Journey</h2>
+    <div class="entries">
+<article class="entry"><div class="entry-date">Oct 2025 – Present</div><div class="entry-body"><h4>Teaching Assistant</h4><p class="meta">Department of Statistics and Actuarial Science, University of Ghana</p></div></article>
+<article class="entry"><div class="entry-date">Jan 2022 – Sept 2025</div><div class="entry-body"><h4>B.A. in Statistics &amp; Economics, First Class Honours</h4><p class="meta">University of Ghana, Legon</p></div></article>    </div>
+  </div>
+</section>
 
-.sidebar-links i,
-.sidebar-links svg {
-  font-size: 1.35rem;
-  width: 28px;
-  margin-right: 10px;
-  vertical-align: middle;
-}
-
-/* Icon colors */
-
-.email-icon i,
-.email-icon svg {
-  color: #EA4335;
-}
-
-.scholar-icon i,
-.scholar-icon svg {
-  color: #4285F4;
-}
-
-.researchgate-icon i,
-.researchgate-icon svg {
-  color: #00CCBB;
-}
-
-.location-icon i,
-.location-icon svg {
-  color: #E74C3C;
-}
-
-.linkedin-icon i,
-.linkedin-icon svg {
-  color: #0A66C2;
-}
-
-.github-icon i,
-.github-icon svg {
-  color: #181717;
-}
-
-.main-about {
-  font-size: 1.15rem;
-  line-height: 1.65;
-}
-
-.main-about h2 {
-  font-size: 2rem;
-  font-weight: 700;
-  margin-bottom: 18px;
-}
-
-.caption {
-  font-size: 0.9rem;
-  color: #666;
-  margin-top: 8px;
-}
-
-/* ===============================
-   Phone layout fix
-   =============================== */
-
-@media screen and (max-width: 768px) {
-
-  .home-container {
-    display: flex !important;
-    flex-direction: column !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    margin: 25px 0 !important;
-    padding: 0 24px !important;
-    gap: 0 !important;
-    box-sizing: border-box !important;
-  }
-
-  .sidebar {
-    display: block !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    margin-bottom: 35px !important;
-    box-sizing: border-box !important;
-    position: relative !important;
-  }
-
-  .profile-img {
-    width: 165px !important;
-    height: 165px !important;
-    display: block !important;
-    margin-bottom: 18px !important;
-  }
-
-  .sidebar-name,
-  .sidebar-title,
-  .sidebar-links {
-    display: block !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    position: static !important;
-    clear: both !important;
-  }
-
-  .sidebar-name {
-    font-size: 1.3rem !important;
-    margin-top: 10px !important;
-    line-height: 1.25 !important;
-  }
-
-  .sidebar-title {
-    font-size: 1rem !important;
-    margin-top: 12px !important;
-    line-height: 1.45 !important;
-  }
-
-  .sidebar-links {
-    margin-top: 22px !important;
-    margin-bottom: 35px !important;
-    line-height: 2.1 !important;
-  }
-
-  .main-about {
-    display: block !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    position: relative !important;
-    clear: both !important;
-    margin-top: 20px !important;
-    padding-top: 10px !important;
-    font-size: 1rem !important;
-    line-height: 1.65 !important;
-    box-sizing: border-box !important;
-  }
-
-  .main-about h2 {
-    font-size: 1.8rem !important;
-    margin-top: 0 !important;
-    margin-bottom: 18px !important;
-  }
-
-  .main-about img {
-    max-width: 100% !important;
-    width: 100% !important;
-    height: auto !important;
-  }
-
-  .caption {
-    font-size: 0.85rem !important;
-    line-height: 1.45 !important;
-  }
-}
-</style>
-
-<div class="home-container">
-
-<div class="sidebar">
-
-<img src="files/images/Fprofile.png" class="profile-img">
-
-<div class="sidebar-name">
-Fuseini Aboagye
-</div>
-
-<div class="sidebar-title">
-Research and Teaching Assistant<br>
-Department of Statistics and Actuarial Science<br>
-University of Ghana<br>
-<span class="location-icon">{{< fa location-dot >}}</span> Accra, Ghana<br><br>
-
-B.A. Economics & Statistics<br>
-First Class Honours
-</div>
-
-<div class="sidebar-links">
-
-<span class="email-icon">{{< fa envelope >}}</span> aboagyefuseini@gmail.com<br>
-
-<span class="scholar-icon">{{< ai google-scholar >}}</span> [Google Scholar](https://scholar.google.com/citations?user=2NIQbBwAAAAJ&hl=en&oi=ao)<br>
-
-<span class="researchgate-icon">{{< ai researchgate >}}</span> [ResearchGate](https://www.researchgate.net/profile/Fuseini-Aboagye?ev=hdr_xprf)<br>
-
-<span class="linkedin-icon">{{< fa brands linkedin >}}</span> [LinkedIn](https://linkedin.com/in/fuseini-aboagye-8379aa237)<br>
-
-<span class="github-icon">{{< fa brands github >}}</span> [GitHub](https://github.com/faboagye)
-
-</div>
-
-</div>
-
-<div class="main-about">
-
-## About Me
-
-Thank you for visiting my website!
-
-I am Fuseini Aboagye, a Research and Teaching Assistant in the Department of Statistics and Actuarial Science at the [University of Ghana](https://www.ug.edu.gh/), where I earned my B.A. double major in Economics and Statistics with First Class Honours **(FGPA: 3.91/4.0)**. My primary interests lie in statistical methodology and quantitative research, with applications in health, economics, and public policy. Through interdisciplinary training in statistics and economics, I have developed strong analytical and computational skills that enable me to address complex real-world problems using data-driven approaches.
-
-During my undergraduate studies, I developed research experience across both statistics and economics. In statistics, my research focuses on understanding structural brain changes associated with Alzheimer's disease using longitudinal MRI data and statistical learning techniques. In economics, I examined the design and implementation of Multiple Indicator Cluster Surveys (MICS) and the role of population census questionnaires in evidence-based policymaking and national statistical planning. These experiences strengthened my interest in applying quantitative methods to address challenges in health, development, and economic policy.
-
-<img src="files/images/TertiaryConference.jpeg"
-     alt="Fuseini Aboagye at the 2023 Tertiary Conference"
-     style="max-width:30%; margin-top:20px; border-radius:8px;">
-
-<div class="caption">
-Attending the 2023 Tertiary Conference organized by Compassion International Ghana, Mfantseman Cluster, themed <em>"Meeting the Challenges of the Next Decade."</em>
-</div>
-
-<br>
-
-
-</div>
-
-</div>
+<section class="wrap section" id="beyond">
+  <div class="cols">
+    <h2>Beyond Research</h2>
+    <div class="beyond">
+      <div>
+        <p>Outside of research and teaching, I give back through student leadership and mentorship. I chair the Academic and Scholarship Committee of Jubilee Hall, have served on the academic committee of the University of Ghana Actuarial and Statistics Society, and returned to Compassion International Ghana as a peer mentor for younger students.</p>
+        <p><a href="leadership.html">Leadership and service</a></p>
+      </div>
+      <figure class="photo"><img src="files/images/TertiaryConference.jpeg" alt="Fuseini Aboagye at the 2023 Tertiary Conference"><figcaption>2023 Tertiary Conference, Compassion International Ghana, Mfantseman Cluster: &ldquo;Meeting the Challenges of the Next Decade.&rdquo;</figcaption></figure>
+    </div>
+  </div>
+</section>
+```

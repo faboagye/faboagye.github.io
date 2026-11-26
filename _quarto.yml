@@ -1,129 +1,53 @@
-
 project:
   type: website
   output-dir: docs
+  post-render: _fix_sitemap.py
   render:
     - "*.qmd"
+    - "!posts/"
+  resources:
+    - "files/Fuseini_Aboagye_CV.pdf"
+    - "files/Alzheimers_Research.pdf"
 
 description-meta: "Website for Fuseini Aboagye"
 author-meta: "Fuseini Aboagye"
 
 website:
-  title: "Homepage of Fuseini Aboagye"
   image: "files/images/Fprofile.png"
-  description: "Teaching Assistant | Economics & Statistics Graduate | Aspiring Statistician"
+  description: "Teaching Assistant, Department of Statistics and Actuarial Science, University of Ghana"
   site-url: "https://faboagye.github.io"
   repo-url: "https://github.com/faboagye/faboagye.github.io"
-
   open-graph: true
   twitter-card: true
-
-  navbar:
-    # logo: "files/images/UG-Logo.png"
-    # logo-alt: "University of Ghana"
-
-    background: "#30363D"
-    foreground: "#D0D0D0"
-
-    pinned: true
-    collapse: true
-    collapse-below: lg
-    search: false
-
-    left:
-      - text: RESEARCH
-        href: publications.qmd
-        
-      - text: CONTACT
-        href: contact.qmd
-
-      - text: TEACHING
-        href: teaching.qmd
-
-      - text: PRESENTATIONS
-        href: posts.qmd
-
-      - text: AWARDS & HONORS
-        href: Awards.qmd
-
-      - text: LEADERSHIP
-        href: leadership.qmd
-
-    right:
-      - text: CV
-        href: files/Fuseini_Aboagye_CV.pdf
-
-      - icon: github
-        href: https://github.com/faboagye
-        target: _blank
-
-  page-navigation: true
-
-  reader-mode: true
-
+  search: false
+  page-navigation: false
+  reader-mode: false
   draft-mode: unlinked
-
-  search:
-    location: navbar
-    type: textbox
-
-  page-footer:
-    left: "[Fuseini Aboagye](https://github.com/faboagye) &copy; <script>document.write(new Date().getFullYear())</script>"
-
-    center: "Built with Quarto"
-
-    right:
-      - icon: github
-        href: https://github.com/faboagye
-        target: _blank
-
-  google-analytics:
-    tracking-id: ""
-    anonymize-ip: true
-
 
 format:
   html:
-
-    theme:
-      light: cosmo
-      dark: darkly
-
-    theme-toggle: true
-
-    respect-user-color-scheme: false
-
-    css: styles.css
-
-    toc: true
-
-    page-layout: full
-
-    smooth-scroll: true
-
-    anchor-sections: true
-
-    footnotes-hover: true
-
-    code-copy: true
-
-    code-link: true
-
-    code-overflow: wrap
-
-    fig-align: center
-
-    link-external-icon: false
-
-    link-external-newwindow: true
-
-    email-obfuscation: javascript
-
-    grid:
-      sidebar-width: 250px
-      body-width: 900px
-      margin-width: 250px
-
+    theme: none
+    css: site.css
+    page-layout: custom
+    canonical-url: true
+    toc: false
+    smooth-scroll: false
+    anchor-sections: false
+    code-copy: false
     include-in-header:
-      - "files/includes/_academic.qmd"
+      - text: |
+          <meta property="og:site_name" content="Fuseini Aboagye">
+          <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Fuseini Aboagye", "url": "https://faboagye.github.io/"}</script>
+          <script>document.documentElement.classList.add("js"); try { if (localStorage.getItem("theme") === "dark") document.documentElement.setAttribute("data-theme", "dark"); } catch (e) {}</script>
+          <style>
+            html .theme-toggle { display: none; }
+            html.js .theme-toggle { display: inline-flex; position: fixed; z-index: 30; top: 19px; right: 16px; }
+            @media (max-width: 820px) { html.js .theme-toggle { top: 14px; right: 12px; } }
+            @media print { html.js .theme-toggle { display: none; } }
+          </style>
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Josefin+Sans:wght@600;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
       - "Views.html"
+    include-before-body: "files/includes/header.html"
+    include-after-body: "files/includes/footer.html"

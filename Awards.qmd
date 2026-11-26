@@ -1,231 +1,45 @@
-
 ---
-title: "Awards & Honors"
-description-meta: "Awards, Scholarships and Academic Honors"
-toc: false
-page-navigation: false
+pagetitle: "Awards and Honors – Fuseini Aboagye"
+description-meta: "Awards, scholarships, and academic honors received by Fuseini Aboagye."
+title-block-style: none
 ---
 
-<style>
-
-#quarto-margin-sidebar,
-#TOC,
-.sidebar,
-.toc,
-nav[role="doc-toc"]{
-    display:none !important;
-}
-
-main.content{
-    max-width:950px !important;
-}
-
-.intro{
-    font-size:18px;
-    line-height:1.8;
-    color:#000;
-    margin-bottom:40px;
-}
-
-body.quarto-dark .intro{
-    color:#E6E6E6 !important;
-}
-
-.year{
-    font-size:30px;
-    font-weight:700;
-    color:#0B57D0;
-    margin-top:30px;
-    margin-bottom:20px;
-    border-bottom:2px solid #0B57D0;
-    width:85%;
-    padding-bottom:8px;
-}
-
-.award{
-    margin-bottom:35px;
-}
-
-.award-title{
-    font-size:23px;
-    font-weight:bold;
-    color:#8B0000;
-    margin-bottom:8px;
-}
-
-.award-number{
-    color:#000;
-    font-weight:bold;
-    margin-right:8px;
-}
-
-body.quarto-dark .award-number{
-    color:#FFFFFF !important;
-}
-
-.award-org{
-    font-size:17px;
-    font-weight:600;
-    color:#444;
-    margin-bottom:10px;
-}
-
-body.quarto-dark .award-org{
-    color:#CFCFCF !important;
-}
-
-.award-desc{
-    font-size:17px;
-    color:#000;
-    line-height:1.8;
-    text-align:justify;
-}
-
-body.quarto-dark .award-desc{
-    color:#E6E6E6 !important;
-}
-
-</style>
-
-<div class="intro">
-
-<em>I am grateful to have received several awards, scholarships and recognitions throughout my academic journey. These honours reflect my commitment to academic excellence, leadership, teaching, and continuous personal development.</em>
-
+```{=html}
+<section class="wrap page-head">
+<p class="overline">Awards</p>
+<h1>Awards and Honors</h1>
+<p class="lead">Awards, scholarships, and recognitions for academic excellence, teaching, and leadership.</p>
+</section>
+<div class="wrap cv-layout">
+<nav class="cv-toc" aria-label="Page sections"><a href="#y2025">2025</a><a href="#y2024">2024</a><a href="#y2022">2022</a><a href="#y2018">2018–2020</a><a href="#y2016">2016–2017</a></nav>
+<div class="cv-main">
+<section class="cv-section" id="y2025"><h2>2025</h2>
+<div class="entries">
+<article class="entry solo"><div class="entry-body"><h4>Best Teaching Assistant Award</h4><p class="meta">Department of Statistics and Actuarial Science, University of Ghana</p><p>Awarded in recognition of outstanding performance, dedication, and excellence as a student teaching assistant.</p></div></article>
+<article class="entry solo"><div class="entry-body"><h4>Sadhu T. L. Vaswani / Indian Association of Ghana Endowment Fund Award</h4><p class="meta">Overall Best Graduating Student in Economics, University of Ghana</p><p>Awarded as the top-ranking graduate in the Department of Economics in recognition of sustained academic excellence.</p></div></article>
 </div>
-
-<div class="year">
-2025
+</section>
+<section class="cv-section" id="y2024"><h2>2024</h2>
+<div class="entries">
+<article class="entry solo"><div class="entry-body"><h4>Overall Best Level 200 Student in Economics</h4><p class="meta">Vice-Chancellor&rsquo;s Ceremony in Honour of Academic Excellence, University of Ghana</p><p>Recognized for exceptional academic performance in the 2022/2023 academic year.</p></div></article>
+<article class="entry solo"><div class="entry-body"><h4>Overall Best Level 200 Student in Statistics</h4><p class="meta">School of Physical and Mathematical Sciences Award Ceremony, University of Ghana</p><p>Awarded as the Overall Best Level 200 Student in the Department of Statistics and Actuarial Science for the 2022/2023 academic year.</p></div></article>
 </div>
-
-<div class="award">
-
-<div class="award-title">
-<span class="award-number">7.</span>Best Student Teaching Assistant Award
+</section>
+<section class="cv-section" id="y2022"><h2>2022</h2>
+<div class="entries">
+<article class="entry solo"><div class="entry-body"><h4>Fondazione Edu Scholarship</h4><p class="meta">University of Ghana Financial Aid Office</p><p>Awarded on the basis of academic merit and financial need to support undergraduate education.</p></div></article>
 </div>
-
-<div class="award-org">
-Department of Statistics and Actuarial Science, University of Ghana
+</section>
+<section class="cv-section" id="y2018"><h2>2018–2020</h2>
+<div class="entries">
+<article class="entry solo"><div class="entry-body"><h4>Excellence Club Award</h4><p class="meta">Potsin T.I. Ahmadiyya Senior High School</p><p>Recognized for consistently earning at least six A grades in eight subjects every semester.</p></div></article>
 </div>
-
-<div class="award-desc">
-Awarded in recognition of outstanding performance, dedication, and excellence as a student teaching assistant in the Department of Statistics and Actuarial Science.
+</section>
+<section class="cv-section" id="y2016"><h2>2016–2017</h2>
+<div class="entries">
+<article class="entry solo"><div class="entry-body"><h4>Inter-School and Inter-Cluster Quiz Champion</h4><p class="meta">Central Region, Ghana</p><p>Won multiple inter-school and inter-cluster quiz competitions, demonstrating excellence in mathematics, science, teamwork, and critical thinking.</p></div></article>
 </div>
-
+</section>
 </div>
-
-<div class="award">
-
-<div class="award-title">
-<span class="award-number">6.</span>Sadhu T. L. Vaswani / Indian Association of Ghana Endowment Fund Award
 </div>
-
-<div class="award-org">
-Overall Best Graduating Student in Economics, University of Ghana
-</div>
-
-<div class="award-desc">
-Awarded as the top-ranking graduate in the Economics Department in recognition of sustained intellectual excellence and unrivaled coursework performance, despite navigating significant socio-economic and financial constraints.
-</div>
-
-</div>
-
-<div class="year">
-2024
-</div>
-
-<div class="award">
-
-<div class="award-title">
-<span class="award-number">5.</span>Overall Best Level 200 Student in Economics
-</div>
-
-<div class="award-org">
-Vice-Chancellor's Ceremony in Honour of Award Winners, University of Ghana
-</div>
-
-<div class="award-desc">
-Recognized as the Overall Best Level 200 Student in Economics for the 2022/2023 Academic Year in acknowledgement of exceptional academic performance.
-</div>
-
-</div>
-
-<div class="year">
-2023
-</div>
-
-<div class="award">
-
-<div class="award-title">
-<span class="award-number">4.</span>Overall Best Level 200 Student in Statistics and Actuarial Science
-</div>
-
-<div class="award-org">
-School of Physical and Mathematical Sciences, University of Ghana
-</div>
-
-<div class="award-desc">
-Awarded as the Overall Best Level 200 Student in the Department of Statistics and Actuarial Science for the 2022/2023 Academic Year.
-</div>
-
-</div>
-
-<div class="year">
-2022
-</div>
-
-<div class="award">
-
-<div class="award-title">
-<span class="award-number">3.</span>Fondazione Edu Scholarship
-</div>
-
-<div class="award-org">
-University of Ghana Financial Aid Office
-</div>
-
-<div class="award-desc">
-Recipient of the Fondazione Edu Scholarship on the basis of academic merit and demonstrated financial need to support my undergraduate education.
-</div>
-
-</div>
-
-<div class="year">
-2018–2020
-</div>
-
-<div class="award">
-
-<div class="award-title">
-<span class="award-number">2.</span>Excellence Club Award
-</div>
-
-<div class="award-org">
-Potsin T.I. Ahmadiyya Senior High School
-</div>
-
-<div class="award-desc">
-Recognized for outstanding academic performance by consistently obtaining a minimum of six Grade A's in eight subjects every academic semester.
-</div>
-
-</div>
-
-<div class="year">
-2016–2017
-</div>
-
-<div class="award">
-
-<div class="award-title">
-<span class="award-number">1.</span>Inter-School & Inter-Cluster Quiz Champion
-</div>
-
-<div class="award-org">
-Central Region, Ghana
-</div>
-
-<div class="award-desc">
-Won multiple inter-school and inter-cluster quiz competitions, demonstrating excellence in mathematics, science, teamwork and critical thinking.
-</div>
-
-</div>
-
+```

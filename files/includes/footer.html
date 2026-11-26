@@ -1,0 +1,115 @@
+<footer class="site-footer"><div class="wrap foot">
+  <div>
+    <div class="foot-name">Fuseini Aboagye</div>
+    <div>Teaching Assistant, Department of Statistics and Actuarial Science, University of Ghana</div>
+    <div><a class="mail" data-u="aboagyefuseini" data-d="gmail.com" href="#">aboagyefuseini [at] gmail.com</a></div>
+  </div>
+  <div class="foot-right">
+    <div><a href="https://scholar.google.com/citations?user=2NIQbBwAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Fuseini-Aboagye" target="_blank" rel="noopener">ResearchGate</a> · <a href="https://github.com/faboagye" target="_blank" rel="noopener">GitHub</a> · <a href="https://linkedin.com/in/fuseini-aboagye-8379aa237" target="_blank" rel="noopener">LinkedIn</a></div>
+    <div class="muted" id="updated"></div>
+  </div>
+</div></footer>
+<script>
+(function () {
+  // Light and dark switch.
+  var toggle = document.querySelector(".theme-toggle");
+  if (toggle) {
+    var root = document.documentElement;
+    var label = function () {
+      var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      toggle.setAttribute("aria-label", "Switch to " + next + " mode");
+      toggle.title = "Switch to " + next + " mode";
+    };
+    label();
+    toggle.addEventListener("click", function () {
+      var dark = root.getAttribute("data-theme") !== "dark";
+      if (dark) { root.setAttribute("data-theme", "dark"); } else { root.removeAttribute("data-theme"); }
+      try { localStorage.setItem("theme", dark ? "dark" : "light"); } catch (e) {}
+      label();
+    });
+  }
+
+  // Mark the current tab.
+  var path = location.pathname.split("/").pop() || "index.html";
+  if (path.indexOf(".") === -1) path += ".html";
+  document.querySelectorAll(".nav a").forEach(function (a) {
+    if (a.getAttribute("href").split("/").pop().toLowerCase() === path.toLowerCase()) {
+      a.classList.add("active");
+      a.setAttribute("aria-current", "page");
+      var more = a.closest(".nav-more");
+      if (more) more.querySelector("summary").classList.add("active");
+    }
+  });
+
+  // Close the More menu when clicking elsewhere.
+  document.addEventListener("click", function (e) {
+    var more = document.querySelector(".nav-more");
+    if (more && more.open && !more.contains(e.target)) more.open = false;
+  });
+
+  // Spam-resistant email links.
+  document.querySelectorAll("a.mail").forEach(function (a) {
+    var addr = a.dataset.u + "@" + a.dataset.d;
+    a.href = "mailto:" + addr;
+    if (a.textContent.indexOf("[at]") !== -1) a.textContent = addr;
+  });
+
+  // Footer date.
+  var updated = document.getElementById("updated");
+  if (updated) {
+    updated.textContent = "Updated " + new Date(document.lastModified).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+  }
+
+  // Collapse older news behind a button.
+  var extra = document.querySelectorAll(".news .news-extra");
+  if (extra.length) {
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "btn ghost news-toggle";
+    var setOpen = function (open) {
+      extra.forEach(function (li) { li.hidden = !open; });
+      btn.textContent = open ? "Show fewer" : "Show earlier news";
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
+    };
+    btn.addEventListener("click", function () {
+      setOpen(btn.getAttribute("aria-expanded") !== "true");
+    });
+    document.querySelector(".news").insertAdjacentElement("afterend", btn);
+    setOpen(false);
+  }
+
+  // Research page filters.
+  var pills = document.querySelectorAll(".pill");
+  if (!pills.length) return;
+  var items = document.querySelectorAll(".paper[data-type]");
+  var groups = document.querySelectorAll(".pub-group");
+  var search = document.querySelector(".search");
+  var empty = document.querySelector(".empty");
+  var type = "all";
+
+  function apply() {
+    var q = (search.value || "").trim().toLowerCase();
+    var shown = 0;
+    items.forEach(function (li) {
+      var ok = (type === "all" || li.dataset.type === type) &&
+               (!q || li.textContent.toLowerCase().indexOf(q) !== -1);
+      li.hidden = !ok;
+      if (ok) shown++;
+    });
+    groups.forEach(function (g) {
+      g.hidden = !g.querySelector(".paper:not([hidden])");
+    });
+    empty.hidden = shown !== 0;
+  }
+
+  pills.forEach(function (b) {
+    b.addEventListener("click", function () {
+      pills.forEach(function (x) { x.classList.remove("active"); });
+      b.classList.add("active");
+      type = b.dataset.filter;
+      apply();
+    });
+  });
+  search.addEventListener("input", apply);
+})();
+</script>

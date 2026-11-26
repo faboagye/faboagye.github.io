@@ -1,188 +1,29 @@
 ---
-title: "Research"
-description-meta: "Research projects and scholarly collaborations."
-toc: false
-page-navigation: false
+pagetitle: "Research – Fuseini Aboagye"
+description-meta: "Research projects, preprints, and scholarly collaborations of Fuseini Aboagye."
+title-block-style: none
 ---
 
-<style>
-
-#quarto-margin-sidebar,
-#TOC,
-.sidebar,
-.toc,
-nav[role="doc-toc"]{
-    display:none !important;
-}
-
-main.content{
-    max-width:950px !important;
-}
-
-.intro{
-    font-size:18px;
-    line-height:1.8;
-    color:#000;
-    text-align:justify;
-    margin-bottom:45px;
-}
-
-body.quarto-dark .intro{
-    color:#E6E6E6 !important;
-}
-
-.section{
-    font-size:2.2rem;
-    font-weight:700;
-    color:#0B57D0;
-    border-bottom:2px solid #0B57D0;
-    padding-bottom:8px;
-    margin-top:40px;
-    margin-bottom:30px;
-}
-
-.project-title{
-    font-size:1.8rem;
-    color:#8B0000;
-    font-weight:700;
-    margin-bottom:12px;
-}
-
-body.quarto-dark .project-title{
-    color:#FF6B6B !important;
-}
-
-.project-meta{
-    font-size:17px;
-    color:#555;
-    font-weight:600;
-    margin-bottom:20px;
-}
-
-body.quarto-dark .project-meta{
-    color:#CFCFCF !important;
-}
-
-.project-desc{
-    font-size:17px;
-    line-height:1.8;
-    text-align:justify;
-    margin-bottom:25px;
-}
-
-body.quarto-dark .project-desc{
-    color:#E6E6E6 !important;
-}
-
-.button{
-    display:inline-block;
-    padding:10px 18px;
-    margin-right:12px;
-    margin-bottom:20px;
-    border-radius:6px;
-    text-decoration:none;
-    background:#0B57D0;
-    color:white !important;
-    font-weight:600;
-}
-
-.button:hover{
-    background:#0847AA;
-    color:white !important;
-}
-
-.paper{
-    margin-bottom:35px;
-    font-size:18px;
-    line-height:1.8;
-}
-
-.paper a{
-    text-decoration:none;
-}
-
-.paper a:hover{
-    text-decoration:underline;
-}
-
-</style>
-
-<div class="intro">
-
-<em>My research focuses on applying statistical methods to real-world problems in public health, official statistics, and the social sciences. Through both independent and collaborative research, I am particularly interested in statistical modelling, longitudinal data analysis, and survey methodology to generate evidence for informed decision-making.
-</em>
-
-</div>
-
-
-<h2 class="section">Featured Research</h2>
-
-<div class="project-title">
-
-Statistical and Machine Learning Approaches to Exploring Brain Structural Changes in Alzheimer's Disease Progression: A Longitudinal Study
-
-</div>
-
-<div class="project-meta">
-
-<b>Lead Author:</b> Fuseini Aboagye <br>
-
-<b>Co-authors:</b> Dzobo Marrion Mawusi & Sackey Rodney <br>
-
-Department of Statistics and Actuarial Science, University of Ghana • November 2025
-
-</div>
-
-<div class="project-desc">
-
-This undergraduate research project investigates structural brain changes associated with Alzheimer's disease using longitudinal magnetic resonance imaging (MRI) data from the Open Access Series of Imaging Studies (OASIS). The study integrates classical statistical techniques with modern machine learning algorithms to identify patterns associated with dementia progression and improve predictive performance.
-
-The research employs repeated-measures MANOVA, Principal Component Analysis (PCA), Random Forest, Gradient Boosting, Support Vector Machine, Neural Networks, and Naïve Bayes models implemented in R. Findings from the study demonstrate the usefulness of combining statistical inference with machine learning for understanding neurodegenerative disease progression and supporting early diagnosis.
-
-</div>
-
-<a class="button" href="files/Alzheimers_Research.pdf" target="_blank">
-📄 Read Thesis
-</a>
-
-<a class="button" href="files/Alzheimers_Research.pdf" download>
-⬇ Download PDF
-</a>
-
-<div class="project-title">
-
-Exploring the Design and Implementation of Multiple Indicator Cluster Surveys (MICS)
-
-</div>
-
-<div class="project-meta">
-
-Department of Economics, University of Ghana • October 2024
-
-</div>
-
-<div class="project-desc">
-
-This research examined the design and implementation of the Multiple Indicator Cluster Surveys (MICS), with emphasis on survey design, sampling methodology, questionnaire development, field implementation, and data quality assurance. The study explored how nationally representative household surveys generate reliable statistics on health, education, child protection, nutrition, and other Sustainable Development Goal (SDG) indicators, highlighting the role of official statistics in supporting evidence-based policymaking and national development planning.
-
-</div>
-
-<h2 class="section">Collaborative Research</h2>
-
-<div class="paper">
-
-Baidoo, D., <strong>Aboagye, F.</strong>, Okeke, O. J., et al. (2025). <em>Comparing Malaria Trends in the Comoros Islands: ARIMA Modeling and Retrospective Analysis.</em>
-<a href="https://arxiv.org/abs/2508.16018" target="_blank">
-arXiv:2508.16018
-</a>
-
-</div>
-
-<div class="paper">
-
-Baidoo, D., Amevor, R., <strong>Aboagye, F.</strong>, Kubuafor, E., et al. (2025). <em>Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.</em>
-<a href="https://arxiv.org/abs/2508.15762" target="_blank">
-arXiv:2508.15762
-</a>
-
-</div>
+```{=html}
+<section class="wrap page-head">
+<p class="overline">Research</p>
+<h1>Research and preprints</h1>
+<p class="lead">My research applies statistical methods to real-world problems in public health, official statistics, and the social sciences, with particular interest in statistical modelling, longitudinal data analysis, and survey methodology. A current list is on <a href="https://scholar.google.com/citations?user=2NIQbBwAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a>.</p>
+<div class="filters" role="group" aria-label="Filter research"><button class="pill active" data-filter="all">All <span>4</span></button><button class="pill" data-filter="thesis">Thesis <span>1</span></button><button class="pill" data-filter="preprint">Preprints <span>2</span></button><button class="pill" data-filter="project">Projects <span>1</span></button><input class="search" type="search" placeholder="Search title or author" aria-label="Search research"></div>
+</section>
+<section class="wrap pubs">
+<div class="pub-group"><div class="year">Thesis</div><ol class="papers">
+<li class="paper" data-type="thesis"><div class="paper-title">Statistical and Machine Learning Approaches to Exploring Brain Structural Changes in Alzheimer&rsquo;s Disease Progression: A Longitudinal Study</div><div class="paper-authors"><span class="me">Aboagye, F.</span> (lead author), Dzobo, M. M., &amp; Sackey, R.</div><div class="paper-venue"><span class="chip published">Thesis</span>Department of Statistics and Actuarial Science, University of Ghana, November 2025 <a class="plink" href="files/Alzheimers_Research.pdf" target="_blank" rel="noopener">PDF</a></div>
+<details class="abs"><summary>Abstract</summary><p>This undergraduate research project investigates structural brain changes associated with Alzheimer&rsquo;s disease using longitudinal magnetic resonance imaging (MRI) data from the Open Access Series of Imaging Studies (OASIS). The study integrates classical statistical techniques with modern machine learning algorithms to identify patterns associated with dementia progression and improve predictive performance.</p><p>The research employs repeated-measures MANOVA, Principal Component Analysis (PCA), Random Forest, Gradient Boosting, Support Vector Machine, Neural Networks, and Na&iuml;ve Bayes models implemented in R. Findings demonstrate the usefulness of combining statistical inference with machine learning for understanding neurodegenerative disease progression and supporting early diagnosis.</p></details></li>
+</ol></div>
+<div class="pub-group"><div class="year">Preprints</div><ol class="papers">
+<li class="paper" data-type="preprint"><div class="paper-title">Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments</div><div class="paper-authors">Baidoo, D., Amevor, R., <span class="me">Aboagye, F.</span>, Kubuafor, E., et al</div><div class="paper-venue"><span class="chip preprint">Preprint</span>2025 <a class="plink" href="https://arxiv.org/abs/2508.15762" target="_blank" rel="noopener">arXiv:2508.15762</a></div></li>
+<li class="paper" data-type="preprint"><div class="paper-title">Comparing Malaria Trends in the Comoros Islands: ARIMA Modeling and Retrospective Analysis</div><div class="paper-authors">Baidoo, D., <span class="me">Aboagye, F.</span>, Okeke, O. J., et al</div><div class="paper-venue"><span class="chip preprint">Preprint</span>2025 <a class="plink" href="https://arxiv.org/abs/2508.16018" target="_blank" rel="noopener">arXiv:2508.16018</a></div></li>
+</ol></div>
+<div class="pub-group"><div class="year">Projects</div><ol class="papers">
+<li class="paper" data-type="project"><div class="paper-title">Exploring the Design and Implementation of Multiple Indicator Cluster Surveys (MICS)</div><div class="paper-authors"><span class="me">Aboagye, F.</span></div><div class="paper-venue"><span class="chip progress">Project</span>Department of Economics, University of Ghana, October 2024</div>
+<details class="abs"><summary>Summary</summary><p>This research examined the design and implementation of the Multiple Indicator Cluster Surveys (MICS), with emphasis on survey design, sampling methodology, questionnaire development, field implementation, and data quality assurance. It explored how nationally representative household surveys generate reliable statistics on health, education, child protection, nutrition, and other Sustainable Development Goal (SDG) indicators, highlighting the role of official statistics in evidence-based policymaking and national development planning.</p></details></li>
+</ol></div>
+<p class="empty" hidden>No research matches that search.</p>
+</section>
+```

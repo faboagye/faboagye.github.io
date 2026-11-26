@@ -1,167 +1,36 @@
-
 ---
-title: "Academic Engagement"
-description-meta: "Research presentations, workshops and professional development."
-toc: false
-page-navigation: false
+pagetitle: "Talks – Fuseini Aboagye"
+description-meta: "Research presentations, workshops, and professional development of Fuseini Aboagye."
+title-block-style: none
 ---
 
-<style>
-
-#quarto-margin-sidebar,
-#TOC,
-.sidebar,
-.toc,
-nav[role="doc-toc"]{
-    display:none !important;
-}
-
-main.content{
-    max-width:950px !important;
-}
-
-.intro{
-    font-size:18px;
-    line-height:1.8;
-    margin-bottom:45px;
-    text-align:justify;
-}
-
-.section{
-    color:#0B57D0 !important;
-    font-size:2.2rem !important;
-    font-weight:700 !important;
-    margin-top:55px !important;
-    margin-bottom:30px !important;
-    border-bottom:2px solid #0B57D0 !important;
-    padding-bottom:8px !important;
-}
-
-.item{
-    margin-bottom:42px;
-}
-
-.item-title{
-    font-size:24px;
-    font-weight:700;
-    color:#8B0000;
-    margin-bottom:8px;
-}
-
-.item-place{
-    font-size:17px;
-    font-weight:600;
-    color:#555;
-    margin-bottom:12px;
-}
-
-body.quarto-dark .item-place{
-    color:#CFCFCF !important;
-}
-
-.item-desc{
-    font-size:17px;
-    line-height:1.8;
-    color:#000;
-    text-align:justify;
-}
-
-body.quarto-dark .item-desc{
-    color:#E6E6E6 !important;
-}
-
-</style>
-
-<div class="intro">
-
-<em>Beyond the classroom, I actively engage in research presentations, student training, workshops, and professional development activities. These experiences have strengthened my communication skills, broadened my academic perspective, and deepened my commitment to statistics and data-driven research.
-</em>
-
+```{=html}
+<section class="wrap page-head">
+<p class="overline">Presentations</p>
+<h1>Talks and workshops</h1>
+<p class="lead">Research presentations, student workshops, and professional development activities that have strengthened my communication skills and my commitment to statistics and data-driven research.</p>
+</section>
+<div class="wrap cv-layout">
+<nav class="cv-toc" aria-label="Page sections"><a href="#presentations">Research Presentations</a><a href="#workshops">Teaching Workshops</a><a href="#development">Professional Development</a></nav>
+<div class="cv-main">
+<section class="cv-section" id="presentations"><h2>Research Presentations</h2>
+<ol class="cv-list" reversed>
+<li><span class="me">Aboagye, F.</span> (2024, October). Exploring How Multiple Indicator Cluster Surveys Are Designed and Implemented. Seminar presentation, Department of Economics, University of Ghana.</li>
+<li><span class="me">Aboagye, F.</span> (2023, March). The Questionnaires Used in the 2021 Population and Housing Census in Ghana. Presentation, Department of Economics, University of Ghana. A critical review of questionnaire structure, data quality, and the role of the census in national statistical planning.</li>
+</ol>
+</section>
+<section class="cv-section" id="workshops"><h2>Teaching Workshops</h2>
+<div class="entries">
+<article class="entry"><div class="entry-date">June 2024</div><div class="entry-body"><h4>Introduction to R Programming</h4><p class="meta">Department of Statistics and Actuarial Science, University of Ghana</p><p>Facilitated an introductory workshop on R for undergraduate students, covering data manipulation, visualization, statistical analysis, and reproducible workflows.</p></div></article>
+<article class="entry"><div class="entry-date">October 2023</div><div class="entry-body"><h4>Introduction to LaTeX</h4><p class="meta">Department of Statistics and Actuarial Science, University of Ghana</p><p>Introduced students to scientific document preparation, mathematical typesetting, report writing, and presentation formatting.</p></div></article>
 </div>
-
-<h2 class="section">Research Presentations</h2>
-
-<div class="item">
-
-<div class="item-title">
-The Questionnaires Used in the 2021 Population and Housing Census in Ghana
+</section>
+<section class="cv-section" id="development"><h2>Professional Development</h2>
+<ul class="news">
+<li><span class="news-date">Sept 2025</span><span>Mentee at <strong>StatFest 2025</strong>, American Statistical Association (virtual): graduate preparation workshops, one-on-one mentoring, and networking with statisticians from academia, industry, and government.</span></li>
+<li><span class="news-date">2023</span><span>Attended the <strong>Tertiary Conference 2023</strong>, Compassion International Ghana, Mfantseman Cluster, on the theme &ldquo;Meeting the Challenges of the Next Decade,&rdquo; with sessions on leadership, personal growth, and career preparation.</span></li>
+</ul>
+</section>
 </div>
-
-<div class="item-place">
-Department of Economics, University of Ghana • March 2023
 </div>
-
-<div class="item-desc">
-Presented a critical review of the questionnaires used during Ghana's 2021 Population and Housing Census, discussing questionnaire structure, data quality considerations, and their role in national statistical planning.
-</div>
-
-</div>
-
-<h2 class="section">Teaching Workshops</h2>
-
-<div class="item">
-
-<div class="item-title">
-Introduction to R Programming
-</div>
-
-<div class="item-place">
-Department of Statistics and Actuarial Science, University of Ghana • June 2024
-</div>
-
-<div class="item-desc">
-Facilitated an introductory workshop on the R programming language for undergraduate students, covering data manipulation, visualization, statistical analysis, and reproducible workflows.
-</div>
-
-</div>
-
-<div class="item">
-
-<div class="item-title">
-Introduction to LaTeX
-</div>
-
-<div class="item-place">
-Department of Statistics and Actuarial Science, University of Ghana • October 2023
-</div>
-
-<div class="item-desc">
-Delivered an introductory session on LaTeX, introducing students to professional scientific document preparation, mathematical typesetting, report writing, and presentation formatting.
-</div>
-
-</div>
-
-<h2 class="section">Professional Development</h2>
-
-<div class="item">
-
-<div class="item-title">
-StatFest 2025
-</div>
-
-<div class="item-place">
-American Statistical Association • Virtual • September 2025
-</div>
-
-<div class="item-desc">
-Participated in graduate preparation workshops focused on research readiness, graduate admissions, professional networking, and career development. The programme also provided one-on-one mentoring sessions with experienced statisticians and opportunities to interact with students and professionals from academia, industry, and government.
-</div>
-
-</div>
-
-<div class="item">
-
-<div class="item-title">
-Tertiary Conference 2023
-</div>
-
-<div class="item-place">
-Compassion International Ghana, Mfantseman Cluster
-</div>
-
-<div class="item-desc">
-Participated in leadership and personal development sessions centred on the theme <em>"Meeting the Challenges of the Next Decade."</em> The conference emphasized leadership, personal growth, career preparation, and responsible citizenship.
-</div>
-
-</div>
-
+```

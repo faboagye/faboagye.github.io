@@ -1,215 +1,34 @@
 ---
-title: "Leadership"
-description-meta: "Leadership, service and community engagement."
-toc: false
-page-navigation: false
+pagetitle: "Leadership – Fuseini Aboagye"
+description-meta: "Leadership, mentorship, and community service of Fuseini Aboagye."
+title-block-style: none
 ---
 
-<style>
-
-#quarto-margin-sidebar,
-#TOC,
-.sidebar,
-.toc,
-nav[role="doc-toc"]{
-    display:none !important;
-}
-
-main.content{
-    max-width:950px !important;
-}
-
-.intro{
-    font-size:18px;
-    line-height:1.8;
-    margin-bottom:45px;
-    text-align:justify;
-}
-
-.lead-section{
-    font-size:30px;
-    font-weight:700;
-    color:#0B57D0;
-    margin-top:50px;
-    margin-bottom:25px;
-    border-bottom:2px solid #0B57D0;
-    padding-bottom:8px;
-}
-
-.item{
-    margin-bottom:38px;
-}
-
-.item-title{
-    font-size:23px;
-    font-weight:700;
-    color:#8B0000;
-    margin-bottom:8px;
-}
-
-.item-place{
-    font-size:17px;
-    font-weight:600;
-    color:#555;
-    margin-bottom:10px;
-}
-
-body.quarto-dark .item-place{
-    color:#CFCFCF !important;
-}
-
-.item-desc{
-    font-size:17px;
-    line-height:1.8;
-    text-align:justify;
-    color:#000;
-}
-
-body.quarto-dark .item-desc{
-    color:#E6E6E6 !important;
-}
-
-</style>
-
-<div class="intro">
-
-<em>Leadership and service have been central to my academic and personal development. Throughout my educational journey, I have actively contributed to student governance, academic mentorship, community engagement, and volunteer initiatives that promote learning, collaboration, and social impact.
-</em>
-
+```{=html}
+<section class="wrap page-head">
+<p class="overline">Leadership</p>
+<h1>Leadership and service</h1>
+<p class="lead">Student governance, academic mentorship, and community service that promote learning, collaboration, and social impact.</p>
+</section>
+<div class="wrap cv-layout">
+<nav class="cv-toc" aria-label="Page sections"><a href="#roles">Leadership Roles</a><a href="#service">Mentorship and Community Service</a></nav>
+<div class="cv-main">
+<section class="cv-section" id="roles"><h2>Leadership Roles</h2>
+<div class="entries">
+<article class="entry"><div class="entry-date">2024 – Present</div><div class="entry-body"><h4>Chairperson, Academic and Scholarship Committee</h4><p class="meta">Jubilee Hall (International Hostel), University of Ghana</p><p>Lead academic initiatives within the hall, coordinate student learning activities, promote scholarship opportunities, and work with stakeholders to improve the academic experience of residents.</p></div></article>
+<article class="entry"><div class="entry-date">2024</div><div class="entry-body"><h4>Deputy Chairperson, Academic Committee</h4><p class="meta">University of Ghana Actuarial and Statistics Society</p><p>Supported the planning and coordination of academic programmes, tutorials, and departmental activities to improve student learning and engagement.</p></div></article>
+<article class="entry"><div class="entry-date">2023</div><div class="entry-body"><h4>Chief Clerk</h4><p class="meta">Jubilee Hall Parliament, University of Ghana</p><p>Managed parliamentary records, coordinated legislative proceedings, and documented parliamentary activities.</p></div></article>
+<article class="entry"><div class="entry-date">2023</div><div class="entry-body"><h4>Marshall</h4><p class="meta">Jubilee Hall Parliament, University of Ghana</p><p>Maintained order during parliamentary proceedings and assisted in organizing sessions and events.</p></div></article>
+<article class="entry"><div class="entry-date">2019 – 2020</div><div class="entry-body"><h4>Treasurer</h4><p class="meta">General Arts Students&rsquo; Association, Potsin T.I. Ahmadiyya Senior High School</p><p>Managed financial records and supported the planning of association activities.</p></div></article>
 </div>
-
-<div class="lead-section">
-Leadership Roles
+</section>
+<section class="cv-section" id="service"><h2>Mentorship and Community Service</h2>
+<div class="entries">
+<article class="entry"><div class="entry-date">2021</div><div class="entry-body"><h4>Peer Mentor</h4><p class="meta">Compassion International Ghana</p><p>Provided academic, personal, and career guidance to younger students, encouraging leadership, confidence, and educational development.</p></div></article>
+<article class="entry"><div class="entry-date">2021</div><div class="entry-body"><h4>Staff Financial Secretary</h4><p class="meta">Home for Hope Preparatory School, Gomoa West Education District</p><p>Supported financial administration and record keeping for school operations.</p></div></article>
+<article class="entry"><div class="entry-date">2020</div><div class="entry-body"><h4>Pandemic Educator</h4><p class="meta">Economics Department, Potsin T.I. Ahmadiyya Senior High School</p><p>Took part in public education during the COVID-19 pandemic, promoting health awareness and preventive practices in the school community.</p></div></article>
 </div>
-
-<div class="item">
-
-<div class="item-title">
-Academic & Scholarship Committee Chairperson
+</section>
 </div>
-
-<div class="item-place">
-Jubilee Hall (International Hostel), University of Ghana • 2024 – Present
 </div>
-
-<div class="item-desc">
-Lead academic initiatives within the hall, coordinate student learning activities, promote scholarship opportunities, and work with stakeholders to enhance the academic experience of resident students.
-</div>
-
-</div>
-
-<div class="item">
-
-<div class="item-title">
-Deputy Chairperson, Academic Committee
-</div>
-
-<div class="item-place">
-University of Ghana Actuarial and Statistics Society • 2024
-</div>
-
-<div class="item-desc">
-Supported the planning and coordination of academic programmes, tutorials, and departmental activities aimed at improving student learning and engagement.
-</div>
-
-</div>
-
-<div class="item">
-
-<div class="item-title">
-Chief Clerk
-</div>
-
-<div class="item-place">
-Jubilee Hall Parliament, University of Ghana • 2023
-</div>
-
-<div class="item-desc">
-Managed parliamentary records, coordinated legislative proceedings, and ensured effective documentation of parliamentary activities.
-</div>
-
-</div>
-
-<div class="item">
-
-<div class="item-title">
-Marshall
-</div>
-
-<div class="item-place">
-Jubilee Hall Parliament, University of Ghana • 2023
-</div>
-
-<div class="item-desc">
-Maintained order during parliamentary proceedings and assisted in the smooth organization of parliamentary sessions and events.
-</div>
-
-</div>
-
-<div class="item">
-
-<div class="item-title">
-Treasurer
-</div>
-
-<div class="item-place">
-General Arts Students' Association, Potsin T.I. Ahmadiyya Senior High School • 2019–2020
-</div>
-
-<div class="item-desc">
-Managed financial records and supported the planning and execution of student association activities.
-</div>
-
-</div>
-
-<div class="lead-section">
-Mentorship & Community Service
-</div>
-
-<div class="item">
-
-<div class="item-title">
-Peer Mentor
-</div>
-
-<div class="item-place">
-Compassion International Ghana • 2021
-</div>
-
-<div class="item-desc">
-Provided academic, personal, and career guidance to younger students while encouraging leadership, confidence, and educational development.
-</div>
-
-</div>
-
-<div class="item">
-
-<div class="item-title">
-Staff Financial Secretary
-</div>
-
-<div class="item-place">
-Home for Hope Preparatory School, Gomoa West Education District • 2021
-</div>
-
-<div class="item-desc">
-Supported financial administration and record keeping while contributing to the effective management of school operations.
-</div>
-
-</div>
-
-<div class="item">
-
-<div class="item-title">
-Pandemic Educator
-</div>
-
-<div class="item-place">
-Economics Department, Potsin T.I. Ahmadiyya Senior High School • 2020
-</div>
-
-<div class="item-desc">
-Participated in public education initiatives during the COVID-19 pandemic, promoting health awareness and responsible preventive practices within the school community.
-</div>
-
-</div>
+```

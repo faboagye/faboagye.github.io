@@ -1,7 +1,14 @@
 ---
-title: Page Unplugged
+pagetitle: "Page Unplugged – Fuseini Aboagye"
+description-meta: "Page not found."
+title-block-style: none
 ---
 
-The page you requested cannot be found (perhaps it was unplugged).
-
-You may want to try searching to find the page's new plug.
+```{=html}
+<section class="wrap page-head">
+<p class="overline">404</p>
+<h1>Page Unplugged</h1>
+<p class="lead">The page you requested cannot be found (perhaps it was unplugged).</p>
+<p class="cta"><a class="btn" href="/index.html">Back to home</a></p>
+</section>
+```

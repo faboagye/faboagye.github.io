@@ -1,0 +1,85 @@
+---
+pagetitle: "CV – Fuseini Aboagye"
+description-meta: "Curriculum vitae of Fuseini Aboagye: education, research, teaching, experience, leadership, and awards."
+title-block-style: none
+---
+
+```{=html}
+<section class="wrap page-head">
+<p class="overline">Curriculum vitae</p>
+<h1>Fuseini Aboagye</h1>
+<p class="cta"><a class="btn" href="files/Fuseini_Aboagye_CV.pdf" target="_blank" rel="noopener">Download PDF</a></p>
+</section>
+<div class="wrap cv-layout">
+<nav class="cv-toc" aria-label="Page sections"><a href="#summary">Professional Summary</a><a href="#education">Education</a><a href="#research">Research Experience</a><a href="#teaching">Teaching Experience</a><a href="#experience">Professional Experience</a><a href="#service">Leadership &amp; Service</a><a href="#awards">Awards &amp; Honors</a><a href="#development">Professional Development</a><a href="#skills">Skills</a><a href="#memberships">Memberships</a></nav>
+<div class="cv-main">
+<section class="cv-section" id="summary"><h2>Professional Summary</h2>
+<p>Statistics and Economics graduate with a strong foundation in statistical modelling, probability, statistical inference, quantitative analysis, and empirical research. Skilled in analysing complex datasets and translating quantitative findings into actionable insights. Passionate about applying statistical methods to biomedical and public health research to improve health outcomes and inform policy.</p>
+</section>
+<section class="cv-section" id="education"><h2>Education</h2>
+<div class="entries"><article class="entry"><div class="entry-date">January 2022 – September 2025</div><div class="entry-body"><h4>University of Ghana</h4><p class="meta"><span class="deg">B.A. in Statistics and Economics</span> · Accra, Ghana</p><ul><li>First Class Honours, GPA 3.91/4.00; top 1% of the graduating class.</li><li>Overall Best Student in Statistics and Economics.</li><li>Thesis: Longitudinal Study of Brain Structure Changes in Alzheimer&rsquo;s Disease Using Machine Learning.</li></ul></div></article></div>
+</section>
+<section class="cv-section" id="research"><h2>Research Experience</h2>
+<h3 class="subhead">Thesis</h3>
+<div class="entries"><article class="entry solo"><div class="entry-body"><p><span class="me">Aboagye, F.</span> (2025, November). Statistical and Machine Learning Approaches to Exploring Brain Structural Changes in Alzheimer&rsquo;s Disease Progression: A Longitudinal Study (undergraduate thesis, University of Ghana). <a href="files/Alzheimers_Research.pdf" target="_blank" rel="noopener">PDF</a></p><ul><li>Built a longitudinal analysis pipeline for repeated-measures brain-structure data (cleaning, harmonization, and feature engineering).</li><li>Fit and compared statistical and machine-learning models to characterize progression patterns and support trajectory prediction.</li><li>Summarized findings in publication-ready figures, tables, and a complete thesis report.</li></ul></div></article></div>
+<h3 class="subhead">Manuscripts Under Review / Preprints</h3>
+<div class="entries">
+<article class="entry solo"><div class="entry-body"><p>Baidoo, D., <span class="me">Aboagye, F.</span>, Okeke, O. J., et al. Comparing malaria trends in the Comoros Islands: ARIMA modeling and retrospective analysis. <a href="https://arxiv.org/abs/2508.16018" target="_blank" rel="noopener">arXiv:2508.16018</a></p><ul><li>Cleaned and structured malaria surveillance time series for retrospective trend and seasonality assessment.</li><li>Implemented ARIMA model selection and diagnostics; evaluated forecasting accuracy with standard error metrics.</li><li>Contributed to interpretation of results and to writing the methods and results sections.</li></ul></div></article>
+<article class="entry solo"><div class="entry-body"><p>Baidoo, D., Amevor, R., <span class="me">Aboagye, F.</span>, Kubuafor, E., et al. Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments. <a href="https://arxiv.org/abs/2508.15762" target="_blank" rel="noopener">arXiv:2508.15762</a></p><ul><li>Supported model formulation for Bayesian hierarchical surveillance of treatment outcomes across heterogeneous patient groups.</li><li>Assisted with posterior analysis and visualization to communicate uncertainty and between-group variability.</li><li>Helped draft figures, tables, and reproducible analysis notes.</li></ul></div></article>
+</div>
+<h3 class="subhead">Academic Projects</h3>
+<div class="entries">
+<article class="entry solo"><div class="entry-body"><h4>The Impact of Technological Advances on Students</h4><ul><li>Designed data-collection instruments and coordinated team roles for survey administration.</li><li>Cleaned and analyzed responses to quantify digital literacy and perceived learning impacts.</li></ul></div></article>
+<article class="entry solo"><div class="entry-body"><h4>The Questionnaires Used in the 2021 Population and Housing Census in Ghana</h4><ul><li>Mapped questionnaire modules to measurement objectives and policy-relevant indicators.</li><li>Assessed potential measurement error, wording effects, and comparability across items.</li></ul></div></article>
+</div>
+</section>
+<section class="cv-section" id="teaching"><h2>Teaching Experience</h2>
+<div class="entries">
+<article class="entry"><div class="entry-date">October 2025 – Present</div><div class="entry-body"><h4>Teaching Assistant</h4><p class="meta">Department of Statistics and Actuarial Science, University of Ghana · Instructor: Dr. Issah Seidu</p><ul><li>Assisted in PHMD 457: Biostatistics and Research Methods for Pharmacy, STAT 333: Statistical Inference, and STAT 445: Advanced Regression, facilitating tutorials and problem-solving sessions.</li><li>Provided individualized academic support and collaborated with faculty on course delivery and grading.</li></ul></div></article>
+<article class="entry"><div class="entry-date">January 2020 – September 2021</div><div class="entry-body"><h4>Class Instructor</h4><p class="meta">Home for Hope Preparatory School, Gomoa Tarkwa</p><ul><li>Administered and graded weekly tests for 40+ students and held monthly parent&ndash;teacher check-ins.</li><li>Provided 5+ hours of after-school tutoring weekly, raising struggling students&rsquo; performance by about one grade level.</li></ul></div></article>
+</div>
+</section>
+<section class="cv-section" id="experience"><h2>Professional Experience</h2>
+<div class="entries">
+<article class="entry"><div class="entry-date">May 2024 – July 2024</div><div class="entry-body"><h4>Assistant Client Service Manager</h4><p class="meta">Ghana Revenue Authority, Ministry of Finance · Agona Swedru</p><ul><li>Resolved 50+ taxpayer inquiries weekly with a 95% resolution rate within three business days.</li><li>Delivered 10+ public education sessions and consultations on taxpayer obligations and services.</li></ul></div></article>
+<article class="entry"><div class="entry-date">March 2024 – May 2024</div><div class="entry-body"><h4>Data Analyst</h4><p class="meta">Agona West Municipal Assembly, Ministry of Local Government · Agona Swedru</p><ul><li>Entered and validated 1,500+ records in R and Excel with 99% accuracy.</li><li>Contributed to five statistical reports and three presentations for council meetings.</li></ul></div></article>
+<article class="entry"><div class="entry-date">February 2016 – June 2022</div><div class="entry-body"><h4>Sales &amp; Customer Service Associate</h4><p class="meta">Allahu Akbar Enterprise · Gomoa Tarkwa</p><ul><li>Assisted 30+ customers daily and processed hundreds of transactions weekly with full accuracy over six years.</li></ul></div></article>
+</div>
+</section>
+<section class="cv-section" id="service"><h2>Leadership &amp; Service</h2>
+<ul class="news">
+<li><span class="news-date">2024</span><span>Chairperson, Academic and Scholarship Committee, Jubilee Hall (International Hostel), University of Ghana</span></li>
+<li><span class="news-date">2024</span><span>Deputy Chairperson, Academic Committee, University of Ghana Actuarial and Statistics Society</span></li>
+<li><span class="news-date">2023</span><span>Chief Clerk, Jubilee Hall Parliament, University of Ghana</span></li>
+<li><span class="news-date">2023</span><span>Marshall, Jubilee Hall Parliament, University of Ghana</span></li>
+<li><span class="news-date">2021</span><span>Peer Mentor, Compassion International Ghana</span></li>
+<li><span class="news-date">2021</span><span>Staff Financial Secretary, Home for Hope Preparatory School, Gomoa West Education District</span></li>
+<li><span class="news-date">2020</span><span>Pandemic Educator, Economics Department, Potsin T.I. Ahmadiyya Senior High School</span></li>
+<li><span class="news-date">2019 – 2020</span><span>Treasurer, General Arts Students&rsquo; Association, Potsin T.I. Ahmadiyya Senior High School</span></li>
+</ul>
+</section>
+<section class="cv-section" id="awards"><h2>Awards &amp; Honors</h2>
+<ul class="news">
+<li><span class="news-date">2025</span><span>Best Teaching Assistant Award, Department of Statistics and Actuarial Science</span></li>
+<li><span class="news-date">2025</span><span>Sadhu T. L. Vaswani / Indian Association of Ghana Endowment Fund Award, Overall Best Graduating Student in Economics</span></li>
+<li><span class="news-date">2024</span><span>Overall Best Level 200 Student in Economics, Vice-Chancellor&rsquo;s Ceremony in Honour of Academic Excellence (2022/2023)</span></li>
+<li><span class="news-date">2024</span><span>Overall Best Level 200 Student in Statistics, School of Physical and Mathematical Sciences (2022/2023)</span></li>
+<li><span class="news-date">2022</span><span>Fondazione Edu Scholarship, University of Ghana Financial Aid Office</span></li>
+<li><span class="news-date">2018 – 2020</span><span>Excellence Club Award, outstanding academic performance (at least six A grades in eight courses per semester)</span></li>
+<li><span class="news-date">2017</span><span>Inter-School Quiz Champion</span></li>
+<li><span class="news-date">2016</span><span>Inter-Cluster Quiz Champion</span></li>
+</ul>
+</section>
+<section class="cv-section" id="development"><h2>Professional Development</h2>
+<div class="entries"><article class="entry"><div class="entry-date">September 2025</div><div class="entry-body"><h4>StatFest 2025, American Statistical Association</h4><p class="meta">Mentee · Virtual</p><ul><li>Attended four graduate preparation workshops on admissions, research readiness, and professional development.</li><li>Took part in one-on-one mentoring and networked with 30+ statisticians from academia, industry, and government.</li></ul></div></article></div>
+</section>
+<section class="cv-section" id="skills"><h2>Skills</h2>
+<p><strong>Technical:</strong> R, Python, Stata, LaTeX, Microsoft 365, working with large language models.</p>
+<p><strong>Professional:</strong> communication, leadership and team coordination, analytical thinking and problem-solving, collaboration, networking.</p>
+</section>
+<section class="cv-section" id="memberships"><h2>Memberships</h2>
+<ul class="plain-list"><li>American Statistical Association</li><li>Institute of Mathematical Statistics</li><li>International Society for Data Science and Analytics</li></ul>
+</section>
+</div>
+</div>
+```
