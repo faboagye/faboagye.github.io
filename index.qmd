@@ -1,18 +1,18 @@
 ---
 pagetitle: "Fuseini Aboagye | Statistics and Economics, University of Ghana"
-description-meta: "Fuseini Aboagye is a Teaching Assistant in the Department of Statistics and Actuarial Science at the University of Ghana, with a First Class B.A. in Statistics and Economics."
+description-meta: "Fuseini Aboagye is a Volunteer Teaching Assistant in the Department of Statistics and Actuarial Science at the University of Ghana, with a First Class B.A. in Statistics and Economics."
 image: "files/images/Fprofile.png"
 canonical-url: "https://faboagye.github.io/"
 title-block-style: none
 ---
 
 ```{=html}
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "ProfilePage", "url": "https://faboagye.github.io/", "mainEntity": {"@type": "Person", "name": "Fuseini Aboagye", "url": "https://faboagye.github.io/", "image": "https://faboagye.github.io/files/images/Fprofile.png", "jobTitle": "Teaching Assistant", "affiliation": {"@type": "CollegeOrUniversity", "name": "University of Ghana", "url": "https://www.ug.edu.gh/"}, "alumniOf": [{"@type": "CollegeOrUniversity", "name": "University of Ghana"}], "knowsAbout": ["Statistics", "Biostatistics", "Economics", "Longitudinal data analysis", "Survey methodology"], "sameAs": ["https://linkedin.com/in/fuseini-aboagye-8379aa237", "https://scholar.google.com/citations?user=2NIQbBwAAAAJ", "https://www.researchgate.net/profile/Fuseini-Aboagye", "https://github.com/faboagye"]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "ProfilePage", "url": "https://faboagye.github.io/", "mainEntity": {"@type": "Person", "name": "Fuseini Aboagye", "url": "https://faboagye.github.io/", "image": "https://faboagye.github.io/files/images/Fprofile.png", "jobTitle": "Volunteer Teaching Assistant", "affiliation": {"@type": "CollegeOrUniversity", "name": "University of Ghana", "url": "https://www.ug.edu.gh/"}, "alumniOf": [{"@type": "CollegeOrUniversity", "name": "University of Ghana"}], "knowsAbout": ["Statistics", "Biostatistics", "Economics", "Longitudinal data analysis", "Survey methodology"], "sameAs": ["https://linkedin.com/in/fuseini-aboagye-8379aa237", "https://scholar.google.com/citations?user=2NIQbBwAAAAJ", "https://www.researchgate.net/profile/Fuseini-Aboagye", "https://github.com/faboagye"]}}</script>
 <section class="wrap hero">
   <div class="hero-text">
     <p class="overline">Statistics and Economics · University of Ghana</p>
     <h1>Fuseini Aboagye</h1>
-    <p class="lead">I am a Teaching Assistant in the <a href="https://www.ug.edu.gh/statistics/" target="_blank" rel="noopener">Department of Statistics and Actuarial Science</a> at the <a href="https://www.ug.edu.gh/" target="_blank" rel="noopener">University of Ghana</a>, where I earned a B.A. in Statistics and Economics with First Class Honours.</p>
+    <p class="lead">I am a Volunteer Teaching Assistant in the <a href="https://www.ug.edu.gh/statistics/" target="_blank" rel="noopener">Department of Statistics and Actuarial Science</a> at the <a href="https://www.ug.edu.gh/" target="_blank" rel="noopener">University of Ghana</a>, where I earned a B.A. in Statistics and Economics with First Class Honours.</p>
     <p class="cta"><a class="btn" href="publications.html">Research</a> <a class="btn ghost" href="cv.html">CV</a></p>
     <p class="links"><a href="https://scholar.google.com/citations?user=2NIQbBwAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">Google Scholar</a> <a href="https://www.researchgate.net/profile/Fuseini-Aboagye" target="_blank" rel="noopener">ResearchGate</a> <a href="https://linkedin.com/in/fuseini-aboagye-8379aa237" target="_blank" rel="noopener">LinkedIn</a> <a href="https://github.com/faboagye" target="_blank" rel="noopener">GitHub</a> <a class="mail" data-u="aboagyefuseini" data-d="gmail.com" href="#">Email</a></p>
   </div>
@@ -34,7 +34,7 @@ title-block-style: none
   <div class="section-head"><h2>Recent News</h2><a class="more" href="Awards.html">All awards and honors</a></div>
   <ul class="news">
     <li><span class="news-date">November 2025</span><span>Completed my undergraduate thesis, <a href="files/Alzheimers_Research.pdf" target="_blank" rel="noopener">Statistical and Machine Learning Approaches to Exploring Brain Structural Changes in Alzheimer&rsquo;s Disease Progression</a>.</span></li>
-    <li><span class="news-date">October 2025</span><span>Began serving as a Teaching Assistant in the Department of Statistics and Actuarial Science, University of Ghana.</span></li>
+    <li><span class="news-date">October 2025</span><span>Began serving as a Volunteer Teaching Assistant in the Department of Statistics and Actuarial Science, University of Ghana.</span></li>
     <li><span class="news-date">September 2025</span><span>Selected as a mentee for <strong>StatFest 2025</strong>, American Statistical Association.</span></li>
     <li><span class="news-date">2025</span><span>Received the <strong>Best Teaching Assistant Award</strong>, Department of Statistics and Actuarial Science, University of Ghana.</span></li>
     <li><span class="news-date">2025</span><span>Received the <strong>Sadhu T. L. Vaswani / Indian Association of Ghana Endowment Fund Award</strong> as Overall Best Graduating Student in Economics.</span></li>
@@ -61,7 +61,7 @@ title-block-style: none
   <div class="cols">
     <h2>My Academic Journey</h2>
     <div class="entries">
-<article class="entry"><div class="entry-date">Oct 2025 – Present</div><div class="entry-body"><h4>Teaching Assistant</h4><p class="meta">Department of Statistics and Actuarial Science, University of Ghana</p></div></article>
+<article class="entry"><div class="entry-date">Oct 2025 – Present</div><div class="entry-body"><h4>Volunteer Teaching Assistant</h4><p class="meta">Department of Statistics and Actuarial Science, University of Ghana</p></div></article>
 <article class="entry"><div class="entry-date">Jan 2022 – Sept 2025</div><div class="entry-body"><h4>B.A. in Statistics &amp; Economics, First Class Honours</h4><p class="meta">University of Ghana, Legon</p></div></article>    </div>
   </div>
 </section>
