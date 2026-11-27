@@ -27,7 +27,7 @@ title-block-style: none
 </section>
 <section class="cv-section" id="development"><h2>Professional Development</h2>
 <ul class="news">
-<li><span class="news-date">Sept 2025</span><span>Mentee at <strong>StatFest 2025</strong>, American Statistical Association (virtual): graduate preparation workshops, one-on-one mentoring, and networking with statisticians from academia, industry, and government.</span></li>
+<li><span class="news-date">Sept 2025</span><span>Mentee at <strong><a href="https://community.amstat.org/cmis/events/statfest/statfest2025" target="_blank" rel="noopener">StatFest 2025</a></strong>, American Statistical Association (virtual): graduate preparation workshops, one-on-one mentoring, and networking with statisticians from academia, industry, and government.</span></li>
 <li><span class="news-date">2023</span><span>Attended the <strong>Tertiary Conference 2023</strong>, Compassion International Ghana, Mfantseman Cluster, on the theme &ldquo;Meeting the Challenges of the Next Decade,&rdquo; with sessions on leadership, personal growth, and career preparation.</span></li>
 </ul>
 </section>
