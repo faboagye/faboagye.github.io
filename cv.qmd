@@ -60,7 +60,7 @@ title-block-style: none
 </section>
 <section class="cv-section" id="awards"><h2>Awards &amp; Honors</h2>
 <ul class="news">
-<li><span class="news-date">2026</span><span><a href="https://www.top100afl.com/awardees/fuseini-aboagye" target="_blank" rel="noopener">Top100 Africa Future Leaders</a>, Class of 2026</span></li>
+<li><span class="news-date">November 2026</span><span><a href="https://www.top100afl.com/awardees/fuseini-aboagye" target="_blank" rel="noopener">Top100 Africa Future Leaders</a>, Class of 2026</span></li>
 <li><span class="news-date">2025</span><span>Best Teaching Assistant Award, Department of Statistics and Actuarial Science</span></li>
 <li><span class="news-date">2025</span><span>Sadhu T. L. Vaswani / Indian Association of Ghana Endowment Fund Award, Overall Best Graduating Student in Economics</span></li>
 <li><span class="news-date">2024</span><span>Overall Best Level 200 Student in Economics, Vice-Chancellor&rsquo;s Ceremony in Honour of Academic Excellence (2022/2023)</span></li>
