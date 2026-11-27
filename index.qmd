@@ -33,6 +33,7 @@ title-block-style: none
 <section class="wrap section" id="news">
   <div class="section-head"><h2>Recent News</h2><a class="more" href="Awards.html">All awards and honors</a></div>
   <ul class="news">
+    <li><span class="news-date">2026</span><span>Named to the <strong><a href="https://www.top100afl.com/awardees/fuseini-aboagye" target="_blank" rel="noopener">Top100 Africa Future Leaders</a></strong>, Class of 2026.</span></li>
     <li><span class="news-date">November 2025</span><span>Completed my undergraduate thesis, <a href="files/Alzheimers_Research.pdf" target="_blank" rel="noopener">Statistical and Machine Learning Approaches to Exploring Brain Structural Changes in Alzheimer&rsquo;s Disease Progression</a>.</span></li>
     <li><span class="news-date">October 2025</span><span>Began serving as a Teaching Assistant in the Department of Statistics and Actuarial Science, University of Ghana.</span></li>
     <li><span class="news-date">September 2025</span><span>Selected as a mentee for <strong>StatFest 2025</strong>, American Statistical Association.</span></li>

@@ -11,8 +11,13 @@ title-block-style: none
 <p class="lead">Awards, scholarships, and recognitions for academic excellence, teaching, and leadership.</p>
 </section>
 <div class="wrap cv-layout">
-<nav class="cv-toc" aria-label="Page sections"><a href="#y2025">2025</a><a href="#y2024">2024</a><a href="#y2022">2022</a><a href="#y2018">2018–2020</a><a href="#y2016">2016–2017</a></nav>
+<nav class="cv-toc" aria-label="Page sections"><a href="#y2026">2026</a><a href="#y2025">2025</a><a href="#y2024">2024</a><a href="#y2022">2022</a><a href="#y2018">2018–2020</a><a href="#y2016">2016–2017</a></nav>
 <div class="cv-main">
+<section class="cv-section" id="y2026"><h2>2026</h2>
+<div class="entries">
+<article class="entry solo"><div class="entry-body"><h4><a href="https://www.top100afl.com/awardees/fuseini-aboagye" target="_blank" rel="noopener">Top100 Africa Future Leaders, Class of 2026</a></h4><p class="meta">Top100 Africa Future Leaders</p><p>Selected among undergraduates and young professionals across Africa recognized for academic excellence, leadership, and community impact, including advocacy that led to the renovation of hall study centres and guidance that helped 14 students secure scholarships.</p></div></article>
+</div>
+</section>
 <section class="cv-section" id="y2025"><h2>2025</h2>
 <div class="entries">
 <article class="entry solo"><div class="entry-body"><h4>Best Teaching Assistant Award</h4><p class="meta">Department of Statistics and Actuarial Science, University of Ghana</p><p>Awarded in recognition of outstanding performance, dedication, and excellence as a student teaching assistant.</p></div></article>
