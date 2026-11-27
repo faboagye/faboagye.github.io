@@ -24,7 +24,7 @@ title-block-style: none
     <h2>About Me</h2>
     <div class="prose">
       <p>Thank you for visiting my website!</p>
-      <p>I completed a double major in Economics and Statistics at the <a href="https://www.ug.edu.gh/" target="_blank" rel="noopener">University of Ghana</a> with First Class Honours (GPA 3.91/4.00), graduating in the top 1% of my class as Overall Best Student in both Statistics and Economics. My interests lie in statistical methodology and quantitative research, with applications in health, economics, and public policy.</p>
+      <p>I completed a double major in Statistics and Economics at the <a href="https://www.ug.edu.gh/" target="_blank" rel="noopener">University of Ghana</a> with First Class Honours (GPA 3.91/4.00), graduating in the top 1% of my class as Overall Best Student in both Statistics and Economics. My interests lie in statistical methodology and quantitative research, with applications in health, economics, and public policy.</p>
       <p>In statistics, my research examines structural brain changes associated with Alzheimer&rsquo;s disease using longitudinal MRI data and statistical learning. In economics, I studied the design and implementation of Multiple Indicator Cluster Surveys (MICS) and the role of census questionnaires in evidence-based policymaking. These experiences have deepened my interest in applying rigorous statistical methods to real-world problems through graduate study.</p>
     </div>
   </div>
@@ -40,7 +40,7 @@ title-block-style: none
     <li><span class="news-date">2025</span><span>Received the <strong>Sadhu T. L. Vaswani / Indian Association of Ghana Endowment Fund Award</strong> as Overall Best Graduating Student in Economics.</span></li>
     <li><span class="news-date">2025</span><span>Graduated with First Class Honours in Statistics and Economics, University of Ghana.</span></li>
     <li class="news-extra"><span class="news-date">2025</span><span>Co-authored two preprints: <a href="https://arxiv.org/abs/2508.16018" target="_blank" rel="noopener">malaria trends in the Comoros Islands</a> and <a href="https://arxiv.org/abs/2508.15762" target="_blank" rel="noopener">Bayesian surveillance of cervical dystonia treatments</a>.</span></li>
-    <li class="news-extra"><span class="news-date">2024</span><span>Named <strong>Overall Best Level 200 Student</strong> in both Economics and Statistics for the 2022/2023 academic year.</span></li>
+    <li class="news-extra"><span class="news-date">2024</span><span>Named <strong>Overall Best Level 200 Student</strong> in both Statistics and Economics for the 2022/2023 academic year.</span></li>
     <li class="news-extra"><span class="news-date">June 2024</span><span>Led an <strong>Introduction to R</strong> workshop for undergraduates, Department of Statistics and Actuarial Science.</span></li>
     <li class="news-extra"><span class="news-date">October 2023</span><span>Led an <strong>Introduction to LaTeX</strong> session for undergraduates, Department of Statistics and Actuarial Science.</span></li>
     <li class="news-extra"><span class="news-date">2022</span><span>Received the <strong>Fondazione Edu Scholarship</strong>, University of Ghana Financial Aid Office.</span></li>
