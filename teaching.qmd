@@ -8,7 +8,7 @@ title-block-style: none
 <section class="wrap page-head">
 <p class="overline">Teaching</p>
 <h1>Courses assisted</h1>
-<p class="lead">I serve as a Teaching Assistant in the Department of Statistics and Actuarial Science, University of Ghana, facilitating tutorials, assisting with practical classes, grading assignments and examinations, and supporting undergraduate students.</p>
+<p class="lead">I serve as a Teaching and Research Assistant in the Department of Statistics and Actuarial Science, University of Ghana, facilitating tutorials, assisting with practical classes, grading assignments and examinations, and supporting undergraduate students.</p>
 </section>
 <div class="wrap cv-layout">
 <nav class="cv-toc" aria-label="Page sections"><a href="#first">First Semester, 2025/2026</a><a href="#second">Second Semester, 2025/2026</a></nav>
